@@ -1,0 +1,400 @@
+/* ===== リセット & ベース ===== */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    height: 100%;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: #0f0f14;
+    color: #e0e0e0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+/* ===== アプリラッパー ===== */
+.app-wrapper {
+    width: 100%;
+    max-width: 520px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 24px;
+}
+
+/* ===== ヘッダー ===== */
+.app-header {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.app-header h1 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #c8c8d0;
+    letter-spacing: 0.15em;
+}
+
+/* ===== 統計バー ===== */
+.stats-bar {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 10px;
+    font-size: 0.95rem;
+}
+
+.stat {
+    padding: 4px 12px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.stat.correct {
+    color: #5eead4;
+}
+
+.stat.wrong {
+    color: #fca5a5;
+}
+
+.stat.total {
+    color: #93a3b8;
+}
+
+/* ===== 漢字表示エリア ===== */
+.kanji-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.grade-label {
+    font-size: 0.85rem;
+    color: #888;
+    letter-spacing: 0.1em;
+    padding: 4px 16px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.kanji-display {
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #f0f0f0;
+    line-height: 1.6;
+    padding: 24px;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    word-break: keep-all;
+}
+
+/* ひらがな（漢字の代わりに表示される部分） */
+.hiragana-blank {
+    display: inline-block;
+    color: #0f0f14;
+    background: linear-gradient(135deg, #5eead4, #38bdf8);
+    padding: 2px 10px;
+    border-radius: 6px;
+    font-weight: 900;
+    position: relative;
+    min-width: 1.5em;
+    text-align: center;
+}
+
+/* ===== 答え表示 ===== */
+.answer-reveal {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 24px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    transition: opacity 0.3s ease;
+}
+
+.answer-reveal.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.answer-label {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.answer-kanji {
+    font-size: 2.4rem;
+    font-weight: 900;
+    color: #fbbf24;
+}
+
+/* ===== ボタンエリア ===== */
+.button-area {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.sub-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.action-btn {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+    letter-spacing: 0.05em;
+    flex: 1;
+    max-width: 160px;
+}
+
+.action-btn:active {
+    transform: scale(0.95);
+}
+
+/* 失敗ボタン */
+.fail-btn {
+    background: rgba(239, 68, 68, 0.15);
+    color: #fca5a5;
+    border: 1px solid rgba(239, 68, 68, 0.25);
+}
+
+.fail-btn:hover {
+    background: rgba(239, 68, 68, 0.25);
+    box-shadow: 0 0 16px rgba(239, 68, 68, 0.15);
+}
+
+/* 選択ボタン */
+.select-btn {
+    background: rgba(99, 102, 241, 0.15);
+    color: #a5b4fc;
+    border: 1px solid rgba(99, 102, 241, 0.25);
+}
+
+.select-btn:hover {
+    background: rgba(99, 102, 241, 0.25);
+    box-shadow: 0 0 16px rgba(99, 102, 241, 0.15);
+}
+
+/* 成功ボタン */
+.success-btn {
+    background: rgba(16, 185, 129, 0.15);
+    color: #5eead4;
+    border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.success-btn:hover {
+    background: rgba(16, 185, 129, 0.25);
+    box-shadow: 0 0 16px rgba(16, 185, 129, 0.15);
+}
+
+/* 答えを見るボタン */
+.answer-btn {
+    background: rgba(251, 191, 36, 0.15);
+    color: #fbbf24;
+    border: 1px solid rgba(251, 191, 36, 0.25);
+}
+
+.answer-btn:hover {
+    background: rgba(251, 191, 36, 0.25);
+    box-shadow: 0 0 16px rgba(251, 191, 36, 0.15);
+}
+
+/* 次へボタン */
+.next-btn {
+    background: rgba(255, 255, 255, 0.06);
+    color: #c8c8d0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    max-width: 200px;
+}
+
+.next-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* ===== モーダル ===== */
+.modal {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(4px);
+    transition: opacity 0.25s ease;
+}
+
+.modal.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.modal-content {
+    background: #1a1a24;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 32px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.modal-content h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+}
+
+.grade-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.grade-btn {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    padding: 14px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+    color: #c8c8d0;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+}
+
+.grade-btn:hover {
+    background: rgba(99, 102, 241, 0.15);
+    border-color: rgba(99, 102, 241, 0.4);
+}
+
+.grade-btn:active {
+    transform: scale(0.95);
+}
+
+.grade-btn.active {
+    background: rgba(99, 102, 241, 0.25);
+    border-color: rgba(99, 102, 241, 0.6);
+    color: #a5b4fc;
+}
+
+.modal-close-btn {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    padding: 10px 32px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.06);
+    color: #999;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.modal-close-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* ===== アニメーション ===== */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.kanji-display {
+    animation: fadeIn 0.3s ease;
+}
+
+/* 正解・不正解フラッシュ */
+.flash-correct {
+    animation: flashGreen 0.4s ease;
+}
+
+.flash-wrong {
+    animation: flashRed 0.4s ease;
+}
+
+@keyframes flashGreen {
+    0% {
+        background: transparent;
+    }
+
+    30% {
+        background: rgba(16, 185, 129, 0.1);
+    }
+
+    100% {
+        background: transparent;
+    }
+}
+
+@keyframes flashRed {
+    0% {
+        background: transparent;
+    }
+
+    30% {
+        background: rgba(239, 68, 68, 0.1);
+    }
+
+    100% {
+        background: transparent;
+    }
+}
+
+/* ===== レスポンシブ ===== */
+@media (max-width: 480px) {
+    .app-wrapper {
+        padding: 16px;
+    }
+
+    .kanji-display {
+        font-size: 2rem;
+    }
+
+    .action-btn {
+        font-size: 0.9rem;
+        padding: 12px 14px;
+    }
+}
