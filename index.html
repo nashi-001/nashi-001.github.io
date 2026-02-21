@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>漢字練習</title>
+    <meta name="description" content="漢字の書き取り練習アプリ - 小学1年から6年までの漢字を練習できます">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- 学年選択モーダル -->
+    <div id="grade-modal" class="modal hidden">
+        <div class="modal-content">
+            <h2>学年を選択</h2>
+            <div class="grade-grid">
+                <button class="grade-btn" data-category="low" data-grade="one">小学1年</button>
+                <button class="grade-btn" data-category="low" data-grade="two">小学2年</button>
+                <button class="grade-btn" data-category="low" data-grade="three">小学3年</button>
+                <button class="grade-btn" data-category="low" data-grade="four">小学4年</button>
+                <button class="grade-btn" data-category="low" data-grade="five">小学5年</button>
+                <button class="grade-btn" data-category="low" data-grade="six">小学6年</button>
+            </div>
+            <button id="modal-close" class="modal-close-btn">閉じる</button>
+        </div>
+    </div>
+
+    <!-- メインコンテンツ -->
+    <div class="app-wrapper">
+        <!-- ヘッダー -->
+        <header class="app-header">
+            <h1>漢字練習</h1>
+            <div class="stats-bar">
+                <span id="stats-correct" class="stat correct">⭕ <span id="correct-count">0</span></span>
+                <span id="stats-wrong" class="stat wrong">❌ <span id="wrong-count">0</span></span>
+                <span id="stats-total" class="stat total">📝 <span id="total-count">0</span></span>
+            </div>
+        </header>
+
+        <!-- 漢字表示エリア -->
+        <main class="kanji-area">
+            <div id="grade-label" class="grade-label">小学1年</div>
+            <div id="kanji-display" class="kanji-display">
+                <span id="kanji-text">始めましょう</span>
+            </div>
+            <div id="answer-reveal" class="answer-reveal hidden">
+                <span class="answer-label">答え:</span>
+                <span id="answer-kanji" class="answer-kanji"></span>
+            </div>
+        </main>
+
+        <!-- ボタンエリア -->
+        <div class="button-area">
+            <button id="fail" class="action-btn fail-btn">✗ 失敗</button>
+            <button id="select" class="action-btn select-btn">📚 学年選択</button>
+            <button id="success" class="action-btn success-btn">○ 成功</button>
+        </div>
+
+        <div class="sub-buttons">
+            <button id="show-answer" class="action-btn answer-btn">💡 答えを見る</button>
+            <button id="next" class="action-btn next-btn">次の漢字 →</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
