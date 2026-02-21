@@ -1,0 +1,7019 @@
+{
+    "low": {
+        "one": {
+            "一": {
+                "1": {
+                    "string": "一つ",
+                    "hiragana": "ひと",
+                    "point": 0
+                }
+            },
+            "右": {
+                "1": {
+                    "string": "右を向く",
+                    "hiragana": "みぎ",
+                    "point": 0
+                }
+            },
+            "雨": {
+                "1": {
+                    "string": "雨が降る",
+                    "hiragana": "あめ",
+                    "point": 0
+                }
+            },
+            "円": {
+                "1": {
+                    "string": "百円玉",
+                    "hiragana": "えん",
+                    "point": 1
+                }
+            },
+            "王": {
+                "1": {
+                    "string": "王さま",
+                    "hiragana": "おう",
+                    "point": 0
+                }
+            },
+            "音": {
+                "1": {
+                    "string": "音が鳴る",
+                    "hiragana": "おと",
+                    "point": 0
+                }
+            },
+            "下": {
+                "1": {
+                    "string": "下におりる",
+                    "hiragana": "した",
+                    "point": 0
+                }
+            },
+            "火": {
+                "1": {
+                    "string": "火をつける",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "花": {
+                "1": {
+                    "string": "花が咲く",
+                    "hiragana": "はな",
+                    "point": 0
+                }
+            },
+            "貝": {
+                "1": {
+                    "string": "貝がら",
+                    "hiragana": "かい",
+                    "point": 0
+                }
+            },
+            "学": {
+                "1": {
+                    "string": "学校に行く",
+                    "hiragana": "がっ",
+                    "point": 0
+                }
+            },
+            "気": {
+                "1": {
+                    "string": "元気がいい",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "九": {
+                "1": {
+                    "string": "九つ",
+                    "hiragana": "ここの",
+                    "point": 0
+                }
+            },
+            "休": {
+                "1": {
+                    "string": "休む",
+                    "hiragana": "やす",
+                    "point": 0
+                }
+            },
+            "玉": {
+                "1": {
+                    "string": "水玉",
+                    "hiragana": "たま",
+                    "point": 1
+                }
+            },
+            "金": {
+                "1": {
+                    "string": "お金",
+                    "hiragana": "かね",
+                    "point": 1
+                }
+            },
+            "空": {
+                "1": {
+                    "string": "空を飛ぶ",
+                    "hiragana": "そら",
+                    "point": 0
+                }
+            },
+            "月": {
+                "1": {
+                    "string": "お月さま",
+                    "hiragana": "つき",
+                    "point": 1
+                }
+            },
+            "犬": {
+                "1": {
+                    "string": "犬が走る",
+                    "hiragana": "いぬ",
+                    "point": 0
+                }
+            },
+            "見": {
+                "1": {
+                    "string": "見る",
+                    "hiragana": "み",
+                    "point": 0
+                }
+            },
+            "五": {
+                "1": {
+                    "string": "五つ",
+                    "hiragana": "いつ",
+                    "point": 0
+                }
+            },
+            "口": {
+                "1": {
+                    "string": "口をあける",
+                    "hiragana": "くち",
+                    "point": 0
+                }
+            },
+            "校": {
+                "1": {
+                    "string": "学校",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "左": {
+                "1": {
+                    "string": "左手",
+                    "hiragana": "ひだり",
+                    "point": 0
+                }
+            },
+            "三": {
+                "1": {
+                    "string": "三つ",
+                    "hiragana": "みっ",
+                    "point": 0
+                }
+            },
+            "山": {
+                "1": {
+                    "string": "山に登る",
+                    "hiragana": "やま",
+                    "point": 0
+                }
+            },
+            "子": {
+                "1": {
+                    "string": "子ども",
+                    "hiragana": "こ",
+                    "point": 0
+                }
+            },
+            "四": {
+                "1": {
+                    "string": "四つ",
+                    "hiragana": "よっ",
+                    "point": 0
+                }
+            },
+            "糸": {
+                "1": {
+                    "string": "糸を通す",
+                    "hiragana": "いと",
+                    "point": 0
+                }
+            },
+            "字": {
+                "1": {
+                    "string": "字を書く",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "耳": {
+                "1": {
+                    "string": "耳をすます",
+                    "hiragana": "みみ",
+                    "point": 0
+                }
+            },
+            "七": {
+                "1": {
+                    "string": "七つ",
+                    "hiragana": "なな",
+                    "point": 0
+                }
+            },
+            "車": {
+                "1": {
+                    "string": "車に乗る",
+                    "hiragana": "くるま",
+                    "point": 0
+                }
+            },
+            "手": {
+                "1": {
+                    "string": "手を洗う",
+                    "hiragana": "て",
+                    "point": 0
+                }
+            },
+            "十": {
+                "1": {
+                    "string": "十個",
+                    "hiragana": "じゅっ",
+                    "point": 0
+                }
+            },
+            "出": {
+                "1": {
+                    "string": "外に出る",
+                    "hiragana": "で",
+                    "point": 2
+                }
+            },
+            "女": {
+                "1": {
+                    "string": "女の子",
+                    "hiragana": "おんな",
+                    "point": 0
+                }
+            },
+            "小": {
+                "1": {
+                    "string": "小さい",
+                    "hiragana": "ちい",
+                    "point": 0
+                }
+            },
+            "上": {
+                "1": {
+                    "string": "上にのぼる",
+                    "hiragana": "うえ",
+                    "point": 0
+                }
+            },
+            "森": {
+                "1": {
+                    "string": "森の中",
+                    "hiragana": "もり",
+                    "point": 0
+                }
+            },
+            "人": {
+                "1": {
+                    "string": "人が多い",
+                    "hiragana": "ひと",
+                    "point": 0
+                }
+            },
+            "水": {
+                "1": {
+                    "string": "水を飲む",
+                    "hiragana": "みず",
+                    "point": 0
+                }
+            },
+            "正": {
+                "1": {
+                    "string": "正しい",
+                    "hiragana": "ただ",
+                    "point": 0
+                }
+            },
+            "生": {
+                "1": {
+                    "string": "先生",
+                    "hiragana": "せい",
+                    "point": 1
+                }
+            },
+            "青": {
+                "1": {
+                    "string": "青い空",
+                    "hiragana": "あお",
+                    "point": 0
+                }
+            },
+            "夕": {
+                "1": {
+                    "string": "夕日",
+                    "hiragana": "ゆう",
+                    "point": 0
+                }
+            },
+            "石": {
+                "1": {
+                    "string": "石を投げる",
+                    "hiragana": "いし",
+                    "point": 0
+                }
+            },
+            "赤": {
+                "1": {
+                    "string": "赤い花",
+                    "hiragana": "あか",
+                    "point": 0
+                }
+            },
+            "千": {
+                "1": {
+                    "string": "千円",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "川": {
+                "1": {
+                    "string": "川で泳ぐ",
+                    "hiragana": "かわ",
+                    "point": 0
+                }
+            },
+            "先": {
+                "1": {
+                    "string": "先生",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "早": {
+                "1": {
+                    "string": "早く起きる",
+                    "hiragana": "はや",
+                    "point": 0
+                }
+            },
+            "草": {
+                "1": {
+                    "string": "草が生える",
+                    "hiragana": "くさ",
+                    "point": 0
+                }
+            },
+            "足": {
+                "1": {
+                    "string": "足が速い",
+                    "hiragana": "あし",
+                    "point": 0
+                }
+            },
+            "村": {
+                "1": {
+                    "string": "村に住む",
+                    "hiragana": "むら",
+                    "point": 0
+                }
+            },
+            "大": {
+                "1": {
+                    "string": "大きい",
+                    "hiragana": "おお",
+                    "point": 0
+                }
+            },
+            "男": {
+                "1": {
+                    "string": "男の子",
+                    "hiragana": "おとこ",
+                    "point": 0
+                }
+            },
+            "竹": {
+                "1": {
+                    "string": "竹やぶ",
+                    "hiragana": "たけ",
+                    "point": 0
+                }
+            },
+            "中": {
+                "1": {
+                    "string": "中に入る",
+                    "hiragana": "なか",
+                    "point": 0
+                }
+            },
+            "虫": {
+                "1": {
+                    "string": "虫をとる",
+                    "hiragana": "むし",
+                    "point": 0
+                }
+            },
+            "町": {
+                "1": {
+                    "string": "町へ行く",
+                    "hiragana": "まち",
+                    "point": 0
+                }
+            },
+            "天": {
+                "1": {
+                    "string": "天の川",
+                    "hiragana": "てん",
+                    "point": 0
+                }
+            },
+            "田": {
+                "1": {
+                    "string": "田んぼ",
+                    "hiragana": "た",
+                    "point": 0
+                }
+            },
+            "土": {
+                "1": {
+                    "string": "土を掘る",
+                    "hiragana": "つち",
+                    "point": 0
+                }
+            },
+            "二": {
+                "1": {
+                    "string": "二つ",
+                    "hiragana": "ふた",
+                    "point": 0
+                }
+            },
+            "日": {
+                "1": {
+                    "string": "今日は1月1日です",
+                    "hiragana": "たち",
+                    "point": 6
+                }
+            },
+            "入": {
+                "1": {
+                    "string": "中に入る",
+                    "hiragana": "はい",
+                    "point": 2
+                }
+            },
+            "年": {
+                "1": {
+                    "string": "一年生",
+                    "hiragana": "ねん",
+                    "point": 1
+                }
+            },
+            "白": {
+                "1": {
+                    "string": "白い雲",
+                    "hiragana": "しろ",
+                    "point": 0
+                }
+            },
+            "八": {
+                "1": {
+                    "string": "八つ",
+                    "hiragana": "やっ",
+                    "point": 0
+                }
+            },
+            "百": {
+                "1": {
+                    "string": "百円",
+                    "hiragana": "ひゃく",
+                    "point": 0
+                }
+            },
+            "文": {
+                "1": {
+                    "string": "作文",
+                    "hiragana": "ぶん",
+                    "point": 1
+                }
+            },
+            "木": {
+                "1": {
+                    "string": "木に登る",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "本": {
+                "1": {
+                    "string": "本を読む",
+                    "hiragana": "ほん",
+                    "point": 0
+                }
+            },
+            "名": {
+                "1": {
+                    "string": "名前",
+                    "hiragana": "な",
+                    "point": 0
+                }
+            },
+            "目": {
+                "1": {
+                    "string": "目を開ける",
+                    "hiragana": "め",
+                    "point": 0
+                }
+            },
+            "立": {
+                "1": {
+                    "string": "立つ",
+                    "hiragana": "た",
+                    "point": 0
+                }
+            },
+            "力": {
+                "1": {
+                    "string": "力もち",
+                    "hiragana": "ちから",
+                    "point": 0
+                }
+            },
+            "林": {
+                "1": {
+                    "string": "林の中",
+                    "hiragana": "はやし",
+                    "point": 0
+                }
+            },
+            "六": {
+                "1": {
+                    "string": "六つ",
+                    "hiragana": "むっ",
+                    "point": 0
+                }
+            }
+        },
+        "two": {
+            "引": {
+                "1": {
+                    "string": "引く",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "羽": {
+                "1": {
+                    "string": "羽ばたく",
+                    "hiragana": "はね",
+                    "point": 0
+                }
+            },
+            "雲": {
+                "1": {
+                    "string": "白い雲",
+                    "hiragana": "くも",
+                    "point": 2
+                }
+            },
+            "園": {
+                "1": {
+                    "string": "動物園",
+                    "hiragana": "えん",
+                    "point": 2
+                }
+            },
+            "遠": {
+                "1": {
+                    "string": "遠い",
+                    "hiragana": "とお",
+                    "point": 0
+                }
+            },
+            "何": {
+                "1": {
+                    "string": "何か",
+                    "hiragana": "なに",
+                    "point": 0
+                }
+            },
+            "科": {
+                "1": {
+                    "string": "理科",
+                    "hiragana": "か",
+                    "point": 1
+                }
+            },
+            "夏": {
+                "1": {
+                    "string": "夏休み",
+                    "hiragana": "なつ",
+                    "point": 0
+                }
+            },
+            "家": {
+                "1": {
+                    "string": "家へ帰る",
+                    "hiragana": "いえ",
+                    "point": 0
+                }
+            },
+            "歌": {
+                "1": {
+                    "string": "歌を歌う",
+                    "hiragana": "うた",
+                    "point": 0
+                }
+            },
+            "画": {
+                "1": {
+                    "string": "画家",
+                    "hiragana": "が",
+                    "point": 0
+                }
+            },
+            "回": {
+                "1": {
+                    "string": "一回",
+                    "hiragana": "かい",
+                    "point": 1
+                }
+            },
+            "会": {
+                "1": {
+                    "string": "会う",
+                    "hiragana": "あ",
+                    "point": 0
+                }
+            },
+            "海": {
+                "1": {
+                    "string": "青い海",
+                    "hiragana": "うみ",
+                    "point": 2
+                }
+            },
+            "絵": {
+                "1": {
+                    "string": "絵をかく",
+                    "hiragana": "え",
+                    "point": 0
+                }
+            },
+            "外": {
+                "1": {
+                    "string": "外に出る",
+                    "hiragana": "そと",
+                    "point": 0
+                }
+            },
+            "角": {
+                "1": {
+                    "string": "四つ角",
+                    "hiragana": "かど",
+                    "point": 2
+                }
+            },
+            "楽": {
+                "1": {
+                    "string": "楽しい",
+                    "hiragana": "たの",
+                    "point": 0
+                }
+            },
+            "活": {
+                "1": {
+                    "string": "生活",
+                    "hiragana": "かつ",
+                    "point": 1
+                }
+            },
+            "間": {
+                "1": {
+                    "string": "時間",
+                    "hiragana": "かん",
+                    "point": 1
+                }
+            },
+            "丸": {
+                "1": {
+                    "string": "丸い",
+                    "hiragana": "まる",
+                    "point": 0
+                }
+            },
+            "岩": {
+                "1": {
+                    "string": "大きな岩",
+                    "hiragana": "いわ",
+                    "point": 3
+                }
+            },
+            "顔": {
+                "1": {
+                    "string": "顔を洗う",
+                    "hiragana": "かお",
+                    "point": 0
+                }
+            },
+            "汽": {
+                "1": {
+                    "string": "汽車",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "記": {
+                "1": {
+                    "string": "日記",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "帰": {
+                "1": {
+                    "string": "帰る",
+                    "hiragana": "かえ",
+                    "point": 0
+                }
+            },
+            "弓": {
+                "1": {
+                    "string": "弓を引く",
+                    "hiragana": "ゆみ",
+                    "point": 0
+                }
+            },
+            "牛": {
+                "1": {
+                    "string": "牛の乳",
+                    "hiragana": "うし",
+                    "point": 0
+                }
+            },
+            "魚": {
+                "1": {
+                    "string": "魚が泳ぐ",
+                    "hiragana": "さかな",
+                    "point": 0
+                }
+            },
+            "京": {
+                "1": {
+                    "string": "東京",
+                    "hiragana": "きょう",
+                    "point": 1
+                }
+            },
+            "強": {
+                "1": {
+                    "string": "強い",
+                    "hiragana": "つよ",
+                    "point": 0
+                }
+            },
+            "教": {
+                "1": {
+                    "string": "教える",
+                    "hiragana": "おし",
+                    "point": 0
+                }
+            },
+            "近": {
+                "1": {
+                    "string": "近い",
+                    "hiragana": "ちか",
+                    "point": 0
+                }
+            },
+            "兄": {
+                "1": {
+                    "string": "お兄さん",
+                    "hiragana": "にい",
+                    "point": 1
+                }
+            },
+            "形": {
+                "1": {
+                    "string": "形を作る",
+                    "hiragana": "かたち",
+                    "point": 0
+                }
+            },
+            "計": {
+                "1": {
+                    "string": "計算",
+                    "hiragana": "けい",
+                    "point": 0
+                }
+            },
+            "元": {
+                "1": {
+                    "string": "元気",
+                    "hiragana": "げん",
+                    "point": 0
+                }
+            },
+            "言": {
+                "1": {
+                    "string": "言う",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "原": {
+                "1": {
+                    "string": "野原",
+                    "hiragana": "はら",
+                    "point": 1
+                }
+            },
+            "戸": {
+                "1": {
+                    "string": "戸をあける",
+                    "hiragana": "と",
+                    "point": 0
+                }
+            },
+            "古": {
+                "1": {
+                    "string": "古い",
+                    "hiragana": "ふる",
+                    "point": 0
+                }
+            },
+            "午": {
+                "1": {
+                    "string": "午前",
+                    "hiragana": "ご",
+                    "point": 0
+                }
+            },
+            "後": {
+                "1": {
+                    "string": "午後",
+                    "hiragana": "ご",
+                    "point": 1
+                }
+            },
+            "語": {
+                "1": {
+                    "string": "国語",
+                    "hiragana": "ご",
+                    "point": 1
+                }
+            },
+            "工": {
+                "1": {
+                    "string": "工作",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "公": {
+                "1": {
+                    "string": "公園",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "広": {
+                "1": {
+                    "string": "広い",
+                    "hiragana": "ひろ",
+                    "point": 0
+                }
+            },
+            "交": {
+                "1": {
+                    "string": "交通",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "光": {
+                "1": {
+                    "string": "光る",
+                    "hiragana": "ひか",
+                    "point": 0
+                }
+            },
+            "考": {
+                "1": {
+                    "string": "考える",
+                    "hiragana": "かんが",
+                    "point": 0
+                }
+            },
+            "行": {
+                "1": {
+                    "string": "行く",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "高": {
+                "1": {
+                    "string": "高い",
+                    "hiragana": "たか",
+                    "point": 0
+                }
+            },
+            "黄": {
+                "1": {
+                    "string": "黄色",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "合": {
+                "1": {
+                    "string": "合う",
+                    "hiragana": "あ",
+                    "point": 0
+                }
+            },
+            "谷": {
+                "1": {
+                    "string": "深い谷",
+                    "hiragana": "たに",
+                    "point": 2
+                }
+            },
+            "国": {
+                "1": {
+                    "string": "外国",
+                    "hiragana": "こく",
+                    "point": 1
+                }
+            },
+            "黒": {
+                "1": {
+                    "string": "黒い",
+                    "hiragana": "くろ",
+                    "point": 0
+                }
+            },
+            "今": {
+                "1": {
+                    "string": "今行く",
+                    "hiragana": "いま",
+                    "point": 0
+                }
+            },
+            "才": {
+                "1": {
+                    "string": "天才",
+                    "hiragana": "さい",
+                    "point": 1
+                }
+            },
+            "細": {
+                "1": {
+                    "string": "細い",
+                    "hiragana": "ほそ",
+                    "point": 0
+                }
+            },
+            "作": {
+                "1": {
+                    "string": "作る",
+                    "hiragana": "つく",
+                    "point": 0
+                }
+            },
+            "算": {
+                "1": {
+                    "string": "算数",
+                    "hiragana": "さん",
+                    "point": 0
+                }
+            },
+            "止": {
+                "1": {
+                    "string": "止まる",
+                    "hiragana": "と",
+                    "point": 0
+                }
+            },
+            "市": {
+                "1": {
+                    "string": "市場",
+                    "hiragana": "いち",
+                    "point": 0
+                }
+            },
+            "矢": {
+                "1": {
+                    "string": "弓と矢",
+                    "hiragana": "や",
+                    "point": 2
+                }
+            },
+            "姉": {
+                "1": {
+                    "string": "お姉さん",
+                    "hiragana": "ねえ",
+                    "point": 1
+                }
+            },
+            "思": {
+                "1": {
+                    "string": "思う",
+                    "hiragana": "おも",
+                    "point": 0
+                }
+            },
+            "紙": {
+                "1": {
+                    "string": "手紙",
+                    "hiragana": "がみ",
+                    "point": 1
+                }
+            },
+            "寺": {
+                "1": {
+                    "string": "お寺",
+                    "hiragana": "てら",
+                    "point": 1
+                }
+            },
+            "自": {
+                "1": {
+                    "string": "自分",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "時": {
+                "1": {
+                    "string": "時間",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "室": {
+                "1": {
+                    "string": "教室",
+                    "hiragana": "しつ",
+                    "point": 1
+                }
+            },
+            "社": {
+                "1": {
+                    "string": "会社",
+                    "hiragana": "しゃ",
+                    "point": 1
+                }
+            },
+            "弱": {
+                "1": {
+                    "string": "弱い",
+                    "hiragana": "よわ",
+                    "point": 0
+                }
+            },
+            "首": {
+                "1": {
+                    "string": "首を振る",
+                    "hiragana": "くび",
+                    "point": 0
+                }
+            },
+            "秋": {
+                "1": {
+                    "string": "秋の空",
+                    "hiragana": "あき",
+                    "point": 0
+                }
+            },
+            "週": {
+                "1": {
+                    "string": "今週",
+                    "hiragana": "しゅう",
+                    "point": 1
+                }
+            },
+            "春": {
+                "1": {
+                    "string": "春風",
+                    "hiragana": "はる",
+                    "point": 0
+                }
+            },
+            "書": {
+                "1": {
+                    "string": "書く",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "少": {
+                "1": {
+                    "string": "少し",
+                    "hiragana": "すこ",
+                    "point": 0
+                }
+            },
+            "場": {
+                "1": {
+                    "string": "広場",
+                    "hiragana": "ば",
+                    "point": 1
+                }
+            },
+            "色": {
+                "1": {
+                    "string": "色紙",
+                    "hiragana": "いろ",
+                    "point": 0
+                }
+            },
+            "食": {
+                "1": {
+                    "string": "食べる",
+                    "hiragana": "た",
+                    "point": 0
+                }
+            },
+            "心": {
+                "1": {
+                    "string": "心",
+                    "hiragana": "こころ",
+                    "point": 0
+                }
+            },
+            "新": {
+                "1": {
+                    "string": "新しい",
+                    "hiragana": "あたら",
+                    "point": 0
+                }
+            },
+            "親": {
+                "1": {
+                    "string": "親友",
+                    "hiragana": "しん",
+                    "point": 0
+                }
+            },
+            "図": {
+                "1": {
+                    "string": "図工",
+                    "hiragana": "ず",
+                    "point": 0
+                }
+            },
+            "数": {
+                "1": {
+                    "string": "数を数える",
+                    "hiragana": "かず",
+                    "point": 0
+                }
+            },
+            "西": {
+                "1": {
+                    "string": "西の空",
+                    "hiragana": "にし",
+                    "point": 0
+                }
+            },
+            "声": {
+                "1": {
+                    "string": "大声",
+                    "hiragana": "ごえ",
+                    "point": 1
+                }
+            },
+            "星": {
+                "1": {
+                    "string": "星空",
+                    "hiragana": "ほし",
+                    "point": 0
+                }
+            },
+            "晴": {
+                "1": {
+                    "string": "晴れる",
+                    "hiragana": "は",
+                    "point": 0
+                }
+            },
+            "切": {
+                "1": {
+                    "string": "切る",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "雪": {
+                "1": {
+                    "string": "雪が降る",
+                    "hiragana": "ゆき",
+                    "point": 0
+                }
+            },
+            "船": {
+                "1": {
+                    "string": "船に乗る",
+                    "hiragana": "ふね",
+                    "point": 0
+                }
+            },
+            "線": {
+                "1": {
+                    "string": "線を引く",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "前": {
+                "1": {
+                    "string": "前を見る",
+                    "hiragana": "まえ",
+                    "point": 0
+                }
+            },
+            "組": {
+                "1": {
+                    "string": "クラスの組",
+                    "hiragana": "くみ",
+                    "point": 4
+                }
+            },
+            "走": {
+                "1": {
+                    "string": "走る",
+                    "hiragana": "はし",
+                    "point": 0
+                }
+            },
+            "多": {
+                "1": {
+                    "string": "多い",
+                    "hiragana": "おお",
+                    "point": 0
+                }
+            },
+            "太": {
+                "1": {
+                    "string": "太い",
+                    "hiragana": "ふと",
+                    "point": 0
+                }
+            },
+            "体": {
+                "1": {
+                    "string": "体を動かす",
+                    "hiragana": "からだ",
+                    "point": 0
+                }
+            },
+            "台": {
+                "1": {
+                    "string": "台風",
+                    "hiragana": "たい",
+                    "point": 0
+                }
+            },
+            "地": {
+                "1": {
+                    "string": "地面",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "池": {
+                "1": {
+                    "string": "池で泳ぐ",
+                    "hiragana": "いけ",
+                    "point": 0
+                }
+            },
+            "知": {
+                "1": {
+                    "string": "知る",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "茶": {
+                "1": {
+                    "string": "お茶",
+                    "hiragana": "ちゃ",
+                    "point": 1
+                }
+            },
+            "昼": {
+                "1": {
+                    "string": "昼休み",
+                    "hiragana": "ひる",
+                    "point": 0
+                }
+            },
+            "長": {
+                "1": {
+                    "string": "長い",
+                    "hiragana": "なが",
+                    "point": 0
+                }
+            },
+            "鳥": {
+                "1": {
+                    "string": "鳥が飛ぶ",
+                    "hiragana": "とり",
+                    "point": 0
+                }
+            },
+            "朝": {
+                "1": {
+                    "string": "朝早く",
+                    "hiragana": "あさ",
+                    "point": 0
+                }
+            },
+            "直": {
+                "1": {
+                    "string": "直す",
+                    "hiragana": "なお",
+                    "point": 0
+                }
+            },
+            "通": {
+                "1": {
+                    "string": "通る",
+                    "hiragana": "とお",
+                    "point": 0
+                }
+            },
+            "弟": {
+                "1": {
+                    "string": "弟と遊ぶ",
+                    "hiragana": "おとうと",
+                    "point": 0
+                }
+            },
+            "店": {
+                "1": {
+                    "string": "お店",
+                    "hiragana": "みせ",
+                    "point": 1
+                }
+            },
+            "点": {
+                "1": {
+                    "string": "百点",
+                    "hiragana": "てん",
+                    "point": 1
+                }
+            },
+            "電": {
+                "1": {
+                    "string": "電車",
+                    "hiragana": "でん",
+                    "point": 0
+                }
+            },
+            "刀": {
+                "1": {
+                    "string": "日本刀",
+                    "hiragana": "とう",
+                    "point": 2
+                }
+            },
+            "冬": {
+                "1": {
+                    "string": "冬休み",
+                    "hiragana": "ふゆ",
+                    "point": 0
+                }
+            },
+            "当": {
+                "1": {
+                    "string": "当たる",
+                    "hiragana": "あ",
+                    "point": 0
+                }
+            },
+            "東": {
+                "1": {
+                    "string": "東の空",
+                    "hiragana": "ひがし",
+                    "point": 0
+                }
+            },
+            "答": {
+                "1": {
+                    "string": "答える",
+                    "hiragana": "こた",
+                    "point": 0
+                }
+            },
+            "頭": {
+                "1": {
+                    "string": "頭がいい",
+                    "hiragana": "あたま",
+                    "point": 0
+                }
+            },
+            "同": {
+                "1": {
+                    "string": "同じ",
+                    "hiragana": "おな",
+                    "point": 0
+                }
+            },
+            "道": {
+                "1": {
+                    "string": "道を歩く",
+                    "hiragana": "みち",
+                    "point": 0
+                }
+            },
+            "読": {
+                "1": {
+                    "string": "読む",
+                    "hiragana": "よ",
+                    "point": 0
+                }
+            },
+            "内": {
+                "1": {
+                    "string": "内がわ",
+                    "hiragana": "うち",
+                    "point": 0
+                }
+            },
+            "南": {
+                "1": {
+                    "string": "南の島",
+                    "hiragana": "みなみ",
+                    "point": 0
+                }
+            },
+            "肉": {
+                "1": {
+                    "string": "お肉",
+                    "hiragana": "にく",
+                    "point": 1
+                }
+            },
+            "馬": {
+                "1": {
+                    "string": "馬が走る",
+                    "hiragana": "うま",
+                    "point": 0
+                }
+            },
+            "売": {
+                "1": {
+                    "string": "売る",
+                    "hiragana": "う",
+                    "point": 0
+                }
+            },
+            "買": {
+                "1": {
+                    "string": "買う",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "麦": {
+                "1": {
+                    "string": "麦わら",
+                    "hiragana": "むぎ",
+                    "point": 0
+                }
+            },
+            "半": {
+                "1": {
+                    "string": "半分",
+                    "hiragana": "はん",
+                    "point": 0
+                }
+            },
+            "番": {
+                "1": {
+                    "string": "一番",
+                    "hiragana": "ばん",
+                    "point": 1
+                }
+            },
+            "父": {
+                "1": {
+                    "string": "お父さん",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "風": {
+                "1": {
+                    "string": "風が吹く",
+                    "hiragana": "かぜ",
+                    "point": 0
+                }
+            },
+            "分": {
+                "1": {
+                    "string": "分かる",
+                    "hiragana": "わ",
+                    "point": 0
+                }
+            },
+            "聞": {
+                "1": {
+                    "string": "聞く",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "米": {
+                "1": {
+                    "string": "お米",
+                    "hiragana": "こめ",
+                    "point": 1
+                }
+            },
+            "歩": {
+                "1": {
+                    "string": "歩く",
+                    "hiragana": "ある",
+                    "point": 0
+                }
+            },
+            "母": {
+                "1": {
+                    "string": "お母さん",
+                    "hiragana": "かあ",
+                    "point": 1
+                }
+            },
+            "方": {
+                "1": {
+                    "string": "夕方",
+                    "hiragana": "がた",
+                    "point": 1
+                }
+            },
+            "北": {
+                "1": {
+                    "string": "北風",
+                    "hiragana": "きた",
+                    "point": 0
+                }
+            },
+            "毎": {
+                "1": {
+                    "string": "毎日",
+                    "hiragana": "まい",
+                    "point": 0
+                }
+            },
+            "妹": {
+                "1": {
+                    "string": "妹と遊ぶ",
+                    "hiragana": "いもうと",
+                    "point": 0
+                }
+            },
+            "万": {
+                "1": {
+                    "string": "一万",
+                    "hiragana": "まん",
+                    "point": 1
+                }
+            },
+            "明": {
+                "1": {
+                    "string": "明るい",
+                    "hiragana": "あか",
+                    "point": 0
+                }
+            },
+            "鳴": {
+                "1": {
+                    "string": "鳴く",
+                    "hiragana": "な",
+                    "point": 0
+                }
+            },
+            "毛": {
+                "1": {
+                    "string": "毛糸",
+                    "hiragana": "け",
+                    "point": 0
+                }
+            },
+            "門": {
+                "1": {
+                    "string": "校門",
+                    "hiragana": "もん",
+                    "point": 1
+                }
+            },
+            "夜": {
+                "1": {
+                    "string": "夜空",
+                    "hiragana": "よる",
+                    "point": 0
+                }
+            },
+            "野": {
+                "1": {
+                    "string": "野原",
+                    "hiragana": "の",
+                    "point": 0
+                }
+            },
+            "友": {
+                "1": {
+                    "string": "友だち",
+                    "hiragana": "とも",
+                    "point": 0
+                }
+            },
+            "用": {
+                "1": {
+                    "string": "用事",
+                    "hiragana": "よう",
+                    "point": 0
+                }
+            },
+            "曜": {
+                "1": {
+                    "string": "日曜日",
+                    "hiragana": "よう",
+                    "point": 1
+                }
+            },
+            "来": {
+                "1": {
+                    "string": "来る",
+                    "hiragana": "く",
+                    "point": 0
+                }
+            },
+            "里": {
+                "1": {
+                    "string": "ふる里",
+                    "hiragana": "さと",
+                    "point": 3
+                }
+            },
+            "理": {
+                "1": {
+                    "string": "理科",
+                    "hiragana": "り",
+                    "point": 0
+                }
+            },
+            "話": {
+                "1": {
+                    "string": "話す",
+                    "hiragana": "はな",
+                    "point": 0
+                }
+            }
+        },
+        "three": {
+            "悪": {
+                "1": {
+                    "string": "悪い",
+                    "hiragana": "わる",
+                    "point": 0
+                }
+            },
+            "安": {
+                "1": {
+                    "string": "安全",
+                    "hiragana": "あん",
+                    "point": 0
+                }
+            },
+            "暗": {
+                "1": {
+                    "string": "暗い",
+                    "hiragana": "くら",
+                    "point": 0
+                }
+            },
+            "医": {
+                "1": {
+                    "string": "医者",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "委": {
+                "1": {
+                    "string": "委員",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "意": {
+                "1": {
+                    "string": "意味",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "育": {
+                "1": {
+                    "string": "育てる",
+                    "hiragana": "そだ",
+                    "point": 0
+                }
+            },
+            "員": {
+                "1": {
+                    "string": "全員",
+                    "hiragana": "いん",
+                    "point": 1
+                }
+            },
+            "院": {
+                "1": {
+                    "string": "病院",
+                    "hiragana": "いん",
+                    "point": 1
+                }
+            },
+            "飲": {
+                "1": {
+                    "string": "水を飲む",
+                    "hiragana": "の",
+                    "point": 2
+                }
+            },
+            "運": {
+                "1": {
+                    "string": "運動",
+                    "hiragana": "うん",
+                    "point": 0
+                }
+            },
+            "泳": {
+                "1": {
+                    "string": "泳ぐ",
+                    "hiragana": "およ",
+                    "point": 0
+                }
+            },
+            "駅": {
+                "1": {
+                    "string": "駅前",
+                    "hiragana": "えき",
+                    "point": 0
+                }
+            },
+            "央": {
+                "1": {
+                    "string": "中央",
+                    "hiragana": "おう",
+                    "point": 1
+                }
+            },
+            "横": {
+                "1": {
+                    "string": "横断",
+                    "hiragana": "おう",
+                    "point": 0
+                }
+            },
+            "屋": {
+                "1": {
+                    "string": "本屋",
+                    "hiragana": "や",
+                    "point": 1
+                }
+            },
+            "温": {
+                "1": {
+                    "string": "温かい",
+                    "hiragana": "あたた",
+                    "point": 0
+                }
+            },
+            "化": {
+                "1": {
+                    "string": "変化",
+                    "hiragana": "か",
+                    "point": 1
+                }
+            },
+            "荷": {
+                "1": {
+                    "string": "荷物",
+                    "hiragana": "に",
+                    "point": 0
+                }
+            },
+            "界": {
+                "1": {
+                    "string": "世界",
+                    "hiragana": "かい",
+                    "point": 1
+                }
+            },
+            "開": {
+                "1": {
+                    "string": "開く",
+                    "hiragana": "ひら",
+                    "point": 0
+                }
+            },
+            "階": {
+                "1": {
+                    "string": "二階",
+                    "hiragana": "かい",
+                    "point": 1
+                }
+            },
+            "寒": {
+                "1": {
+                    "string": "寒い",
+                    "hiragana": "さむ",
+                    "point": 0
+                }
+            },
+            "感": {
+                "1": {
+                    "string": "感動",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "漢": {
+                "1": {
+                    "string": "漢字",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "館": {
+                "1": {
+                    "string": "図書館",
+                    "hiragana": "かん",
+                    "point": 2
+                }
+            },
+            "岸": {
+                "1": {
+                    "string": "海岸",
+                    "hiragana": "がん",
+                    "point": 1
+                }
+            },
+            "起": {
+                "1": {
+                    "string": "起きる",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "期": {
+                "1": {
+                    "string": "期待",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "客": {
+                "1": {
+                    "string": "お客",
+                    "hiragana": "きゃく",
+                    "point": 1
+                }
+            },
+            "究": {
+                "1": {
+                    "string": "研究",
+                    "hiragana": "きゅう",
+                    "point": 1
+                }
+            },
+            "急": {
+                "1": {
+                    "string": "急ぐ",
+                    "hiragana": "いそ",
+                    "point": 0
+                }
+            },
+            "級": {
+                "1": {
+                    "string": "学級",
+                    "hiragana": "きゅう",
+                    "point": 1
+                }
+            },
+            "宮": {
+                "1": {
+                    "string": "お宮",
+                    "hiragana": "みや",
+                    "point": 1
+                }
+            },
+            "球": {
+                "1": {
+                    "string": "地球",
+                    "hiragana": "きゅう",
+                    "point": 1
+                }
+            },
+            "去": {
+                "1": {
+                    "string": "去年",
+                    "hiragana": "きょ",
+                    "point": 0
+                }
+            },
+            "橋": {
+                "1": {
+                    "string": "橋を渡る",
+                    "hiragana": "はし",
+                    "point": 0
+                }
+            },
+            "業": {
+                "1": {
+                    "string": "授業",
+                    "hiragana": "ぎょう",
+                    "point": 1
+                }
+            },
+            "曲": {
+                "1": {
+                    "string": "曲がる",
+                    "hiragana": "ま",
+                    "point": 0
+                }
+            },
+            "局": {
+                "1": {
+                    "string": "郵便局",
+                    "hiragana": "きょく",
+                    "point": 2
+                }
+            },
+            "銀": {
+                "1": {
+                    "string": "銀行",
+                    "hiragana": "ぎん",
+                    "point": 0
+                }
+            },
+            "区": {
+                "1": {
+                    "string": "地区",
+                    "hiragana": "く",
+                    "point": 1
+                }
+            },
+            "苦": {
+                "1": {
+                    "string": "苦しい",
+                    "hiragana": "くる",
+                    "point": 0
+                }
+            },
+            "具": {
+                "1": {
+                    "string": "道具",
+                    "hiragana": "ぐ",
+                    "point": 1
+                }
+            },
+            "君": {
+                "1": {
+                    "string": "君と僕",
+                    "hiragana": "きみ",
+                    "point": 0
+                }
+            },
+            "係": {
+                "1": {
+                    "string": "係員",
+                    "hiragana": "かかり",
+                    "point": 0
+                }
+            },
+            "軽": {
+                "1": {
+                    "string": "軽い",
+                    "hiragana": "かる",
+                    "point": 0
+                }
+            },
+            "血": {
+                "1": {
+                    "string": "血が出る",
+                    "hiragana": "ち",
+                    "point": 0
+                }
+            },
+            "決": {
+                "1": {
+                    "string": "決める",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "研": {
+                "1": {
+                    "string": "研究",
+                    "hiragana": "けん",
+                    "point": 0
+                }
+            },
+            "県": {
+                "1": {
+                    "string": "長野県",
+                    "hiragana": "けん",
+                    "point": 2
+                }
+            },
+            "庫": {
+                "1": {
+                    "string": "金庫",
+                    "hiragana": "こ",
+                    "point": 1
+                }
+            },
+            "湖": {
+                "1": {
+                    "string": "湖畔",
+                    "hiragana": "こ",
+                    "point": 0
+                }
+            },
+            "向": {
+                "1": {
+                    "string": "向かう",
+                    "hiragana": "む",
+                    "point": 0
+                }
+            },
+            "幸": {
+                "1": {
+                    "string": "幸せ",
+                    "hiragana": "しあわ",
+                    "point": 0
+                }
+            },
+            "港": {
+                "1": {
+                    "string": "港町",
+                    "hiragana": "みなと",
+                    "point": 0
+                }
+            },
+            "号": {
+                "1": {
+                    "string": "番号",
+                    "hiragana": "ごう",
+                    "point": 1
+                }
+            },
+            "根": {
+                "1": {
+                    "string": "大根",
+                    "hiragana": "こん",
+                    "point": 1
+                }
+            },
+            "祭": {
+                "1": {
+                    "string": "お祭り",
+                    "hiragana": "まつ",
+                    "point": 1
+                }
+            },
+            "皿": {
+                "1": {
+                    "string": "お皿",
+                    "hiragana": "さら",
+                    "point": 1
+                }
+            },
+            "仕": {
+                "1": {
+                    "string": "仕事",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "死": {
+                "1": {
+                    "string": "死ぬ",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "使": {
+                "1": {
+                    "string": "使う",
+                    "hiragana": "つか",
+                    "point": 0
+                }
+            },
+            "始": {
+                "1": {
+                    "string": "始める",
+                    "hiragana": "はじ",
+                    "point": 0
+                }
+            },
+            "指": {
+                "1": {
+                    "string": "指輪",
+                    "hiragana": "ゆび",
+                    "point": 0
+                }
+            },
+            "歯": {
+                "1": {
+                    "string": "虫歯",
+                    "hiragana": "ば",
+                    "point": 1
+                }
+            },
+            "詩": {
+                "1": {
+                    "string": "詩をよむ",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "次": {
+                "1": {
+                    "string": "次へ",
+                    "hiragana": "つぎ",
+                    "point": 0
+                }
+            },
+            "事": {
+                "1": {
+                    "string": "食事",
+                    "hiragana": "じ",
+                    "point": 1
+                }
+            },
+            "持": {
+                "1": {
+                    "string": "持つ",
+                    "hiragana": "も",
+                    "point": 0
+                }
+            },
+            "式": {
+                "1": {
+                    "string": "入学式",
+                    "hiragana": "しき",
+                    "point": 2
+                }
+            },
+            "実": {
+                "1": {
+                    "string": "果実",
+                    "hiragana": "じつ",
+                    "point": 1
+                }
+            },
+            "写": {
+                "1": {
+                    "string": "写真",
+                    "hiragana": "しゃ",
+                    "point": 0
+                }
+            },
+            "者": {
+                "1": {
+                    "string": "医者",
+                    "hiragana": "しゃ",
+                    "point": 1
+                }
+            },
+            "主": {
+                "1": {
+                    "string": "主人",
+                    "hiragana": "しゅ",
+                    "point": 0
+                }
+            },
+            "守": {
+                "1": {
+                    "string": "守る",
+                    "hiragana": "まも",
+                    "point": 0
+                }
+            },
+            "取": {
+                "1": {
+                    "string": "取る",
+                    "hiragana": "と",
+                    "point": 0
+                }
+            },
+            "酒": {
+                "1": {
+                    "string": "お酒",
+                    "hiragana": "さけ",
+                    "point": 1
+                }
+            },
+            "受": {
+                "1": {
+                    "string": "受ける",
+                    "hiragana": "う",
+                    "point": 0
+                }
+            },
+            "州": {
+                "1": {
+                    "string": "本州",
+                    "hiragana": "しゅう",
+                    "point": 1
+                }
+            },
+            "拾": {
+                "1": {
+                    "string": "拾う",
+                    "hiragana": "ひろ",
+                    "point": 0
+                }
+            },
+            "終": {
+                "1": {
+                    "string": "終わる",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "習": {
+                "1": {
+                    "string": "習う",
+                    "hiragana": "なら",
+                    "point": 0
+                }
+            },
+            "集": {
+                "1": {
+                    "string": "集まる",
+                    "hiragana": "あつ",
+                    "point": 0
+                }
+            },
+            "住": {
+                "1": {
+                    "string": "住む",
+                    "hiragana": "す",
+                    "point": 0
+                }
+            },
+            "重": {
+                "1": {
+                    "string": "重い",
+                    "hiragana": "おも",
+                    "point": 0
+                }
+            },
+            "宿": {
+                "1": {
+                    "string": "宿題",
+                    "hiragana": "しゅく",
+                    "point": 0
+                }
+            },
+            "所": {
+                "1": {
+                    "string": "場所",
+                    "hiragana": "しょ",
+                    "point": 1
+                }
+            },
+            "暑": {
+                "1": {
+                    "string": "暑い",
+                    "hiragana": "あつ",
+                    "point": 0
+                }
+            },
+            "助": {
+                "1": {
+                    "string": "助ける",
+                    "hiragana": "たす",
+                    "point": 0
+                }
+            },
+            "昭": {
+                "1": {
+                    "string": "昭和",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "消": {
+                "1": {
+                    "string": "消す",
+                    "hiragana": "け",
+                    "point": 0
+                }
+            },
+            "商": {
+                "1": {
+                    "string": "商店",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "章": {
+                "1": {
+                    "string": "文章",
+                    "hiragana": "しょう",
+                    "point": 1
+                }
+            },
+            "勝": {
+                "1": {
+                    "string": "勝つ",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "乗": {
+                "1": {
+                    "string": "乗る",
+                    "hiragana": "の",
+                    "point": 0
+                }
+            },
+            "植": {
+                "1": {
+                    "string": "植物",
+                    "hiragana": "しょく",
+                    "point": 0
+                }
+            },
+            "申": {
+                "1": {
+                    "string": "申す",
+                    "hiragana": "もう",
+                    "point": 0
+                }
+            },
+            "身": {
+                "1": {
+                    "string": "身体",
+                    "hiragana": "しん",
+                    "point": 0
+                }
+            },
+            "神": {
+                "1": {
+                    "string": "神様",
+                    "hiragana": "かみ",
+                    "point": 0
+                }
+            },
+            "真": {
+                "1": {
+                    "string": "写真",
+                    "hiragana": "しん",
+                    "point": 1
+                }
+            },
+            "深": {
+                "1": {
+                    "string": "深い",
+                    "hiragana": "ふか",
+                    "point": 0
+                }
+            },
+            "進": {
+                "1": {
+                    "string": "進む",
+                    "hiragana": "すす",
+                    "point": 0
+                }
+            },
+            "世": {
+                "1": {
+                    "string": "世界",
+                    "hiragana": "せ",
+                    "point": 0
+                }
+            },
+            "整": {
+                "1": {
+                    "string": "整理",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "昔": {
+                "1": {
+                    "string": "昔話",
+                    "hiragana": "むかし",
+                    "point": 0
+                }
+            },
+            "全": {
+                "1": {
+                    "string": "全部",
+                    "hiragana": "ぜん",
+                    "point": 0
+                }
+            },
+            "相": {
+                "1": {
+                    "string": "相談",
+                    "hiragana": "そう",
+                    "point": 0
+                }
+            },
+            "送": {
+                "1": {
+                    "string": "送る",
+                    "hiragana": "おく",
+                    "point": 0
+                }
+            },
+            "想": {
+                "1": {
+                    "string": "予想",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "息": {
+                "1": {
+                    "string": "ため息",
+                    "hiragana": "いき",
+                    "point": 2
+                }
+            },
+            "速": {
+                "1": {
+                    "string": "速い",
+                    "hiragana": "はや",
+                    "point": 0
+                }
+            },
+            "族": {
+                "1": {
+                    "string": "家族",
+                    "hiragana": "ぞく",
+                    "point": 1
+                }
+            },
+            "他": {
+                "1": {
+                    "string": "他人",
+                    "hiragana": "た",
+                    "point": 0
+                }
+            },
+            "打": {
+                "1": {
+                    "string": "打つ",
+                    "hiragana": "う",
+                    "point": 0
+                }
+            },
+            "対": {
+                "1": {
+                    "string": "反対",
+                    "hiragana": "たい",
+                    "point": 1
+                }
+            },
+            "待": {
+                "1": {
+                    "string": "待つ",
+                    "hiragana": "ま",
+                    "point": 0
+                }
+            },
+            "代": {
+                "1": {
+                    "string": "交代",
+                    "hiragana": "たい",
+                    "point": 1
+                }
+            },
+            "第": {
+                "1": {
+                    "string": "第一",
+                    "hiragana": "だい",
+                    "point": 0
+                }
+            },
+            "題": {
+                "1": {
+                    "string": "問題",
+                    "hiragana": "だい",
+                    "point": 1
+                }
+            },
+            "炭": {
+                "1": {
+                    "string": "石炭",
+                    "hiragana": "たん",
+                    "point": 1
+                }
+            },
+            "短": {
+                "1": {
+                    "string": "短い",
+                    "hiragana": "みじか",
+                    "point": 0
+                }
+            },
+            "談": {
+                "1": {
+                    "string": "相談",
+                    "hiragana": "だん",
+                    "point": 1
+                }
+            },
+            "着": {
+                "1": {
+                    "string": "着る",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "注": {
+                "1": {
+                    "string": "注意",
+                    "hiragana": "ちゅう",
+                    "point": 0
+                }
+            },
+            "柱": {
+                "1": {
+                    "string": "電柱",
+                    "hiragana": "ちゅう",
+                    "point": 1
+                }
+            },
+            "丁": {
+                "1": {
+                    "string": "丁寧",
+                    "hiragana": "てい",
+                    "point": 0
+                }
+            },
+            "帳": {
+                "1": {
+                    "string": "手帳",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "調": {
+                "1": {
+                    "string": "調べる",
+                    "hiragana": "しら",
+                    "point": 0
+                }
+            },
+            "追": {
+                "1": {
+                    "string": "追う",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "定": {
+                "1": {
+                    "string": "予定",
+                    "hiragana": "てい",
+                    "point": 1
+                }
+            },
+            "庭": {
+                "1": {
+                    "string": "校庭",
+                    "hiragana": "てい",
+                    "point": 1
+                }
+            },
+            "笛": {
+                "1": {
+                    "string": "縦笛",
+                    "hiragana": "ぶえ",
+                    "point": 1
+                }
+            },
+            "鉄": {
+                "1": {
+                    "string": "地下鉄",
+                    "hiragana": "てつ",
+                    "point": 2
+                }
+            },
+            "転": {
+                "1": {
+                    "string": "自転車",
+                    "hiragana": "てん",
+                    "point": 1
+                }
+            },
+            "都": {
+                "1": {
+                    "string": "京都",
+                    "hiragana": "と",
+                    "point": 1
+                }
+            },
+            "度": {
+                "1": {
+                    "string": "温度",
+                    "hiragana": "ど",
+                    "point": 1
+                }
+            },
+            "投": {
+                "1": {
+                    "string": "投げる",
+                    "hiragana": "な",
+                    "point": 0
+                }
+            },
+            "豆": {
+                "1": {
+                    "string": "大豆",
+                    "hiragana": "まめ",
+                    "point": 1
+                }
+            },
+            "島": {
+                "1": {
+                    "string": "半島",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "湯": {
+                "1": {
+                    "string": "お湯",
+                    "hiragana": "ゆ",
+                    "point": 1
+                }
+            },
+            "登": {
+                "1": {
+                    "string": "登る",
+                    "hiragana": "のぼ",
+                    "point": 0
+                }
+            },
+            "等": {
+                "1": {
+                    "string": "平等",
+                    "hiragana": "どう",
+                    "point": 1
+                }
+            },
+            "動": {
+                "1": {
+                    "string": "運動",
+                    "hiragana": "どう",
+                    "point": 1
+                }
+            },
+            "童": {
+                "1": {
+                    "string": "児童",
+                    "hiragana": "どう",
+                    "point": 1
+                }
+            },
+            "農": {
+                "1": {
+                    "string": "農業",
+                    "hiragana": "のう",
+                    "point": 0
+                }
+            },
+            "波": {
+                "1": {
+                    "string": "電波",
+                    "hiragana": "ぱ",
+                    "point": 1
+                }
+            },
+            "配": {
+                "1": {
+                    "string": "配る",
+                    "hiragana": "くば",
+                    "point": 0
+                }
+            },
+            "倍": {
+                "1": {
+                    "string": "二倍",
+                    "hiragana": "ばい",
+                    "point": 1
+                }
+            },
+            "箱": {
+                "1": {
+                    "string": "ゴミ箱",
+                    "hiragana": "ばこ",
+                    "point": 2
+                }
+            },
+            "畑": {
+                "1": {
+                    "string": "麦畑",
+                    "hiragana": "ばたけ",
+                    "point": 1
+                }
+            },
+            "発": {
+                "1": {
+                    "string": "出発",
+                    "hiragana": "ぱつ",
+                    "point": 1
+                }
+            },
+            "反": {
+                "1": {
+                    "string": "反対",
+                    "hiragana": "はん",
+                    "point": 0
+                }
+            },
+            "坂": {
+                "1": {
+                    "string": "上り坂",
+                    "hiragana": "ざか",
+                    "point": 2
+                }
+            },
+            "板": {
+                "1": {
+                    "string": "黒板",
+                    "hiragana": "ばん",
+                    "point": 1
+                }
+            },
+            "皮": {
+                "1": {
+                    "string": "毛皮",
+                    "hiragana": "がわ",
+                    "point": 1
+                }
+            },
+            "悲": {
+                "1": {
+                    "string": "悲しい",
+                    "hiragana": "かな",
+                    "point": 0
+                }
+            },
+            "美": {
+                "1": {
+                    "string": "美しい",
+                    "hiragana": "うつく",
+                    "point": 0
+                }
+            },
+            "鼻": {
+                "1": {
+                    "string": "鼻水",
+                    "hiragana": "はな",
+                    "point": 0
+                }
+            },
+            "筆": {
+                "1": {
+                    "string": "鉛筆",
+                    "hiragana": "ぴつ",
+                    "point": 1
+                }
+            },
+            "氷": {
+                "1": {
+                    "string": "かき氷",
+                    "hiragana": "ごおり",
+                    "point": 2
+                }
+            },
+            "表": {
+                "1": {
+                    "string": "発表",
+                    "hiragana": "ぴょう",
+                    "point": 1
+                }
+            },
+            "秒": {
+                "1": {
+                    "string": "数秒",
+                    "hiragana": "びょう",
+                    "point": 1
+                }
+            },
+            "病": {
+                "1": {
+                    "string": "病気",
+                    "hiragana": "びょう",
+                    "point": 0
+                }
+            },
+            "品": {
+                "1": {
+                    "string": "作品",
+                    "hiragana": "ひん",
+                    "point": 1
+                }
+            },
+            "負": {
+                "1": {
+                    "string": "負ける",
+                    "hiragana": "ま",
+                    "point": 0
+                }
+            },
+            "部": {
+                "1": {
+                    "string": "部屋",
+                    "hiragana": "へ",
+                    "point": 0
+                }
+            },
+            "服": {
+                "1": {
+                    "string": "洋服",
+                    "hiragana": "ふく",
+                    "point": 1
+                }
+            },
+            "福": {
+                "1": {
+                    "string": "幸福",
+                    "hiragana": "ふく",
+                    "point": 1
+                }
+            },
+            "物": {
+                "1": {
+                    "string": "動物",
+                    "hiragana": "ぶつ",
+                    "point": 1
+                }
+            },
+            "平": {
+                "1": {
+                    "string": "平和",
+                    "hiragana": "へい",
+                    "point": 0
+                }
+            },
+            "返": {
+                "1": {
+                    "string": "返事",
+                    "hiragana": "へん",
+                    "point": 0
+                }
+            },
+            "勉": {
+                "1": {
+                    "string": "勉強",
+                    "hiragana": "べん",
+                    "point": 0
+                }
+            },
+            "放": {
+                "1": {
+                    "string": "放送",
+                    "hiragana": "ほう",
+                    "point": 0
+                }
+            },
+            "味": {
+                "1": {
+                    "string": "意味",
+                    "hiragana": "み",
+                    "point": 1
+                }
+            },
+            "命": {
+                "1": {
+                    "string": "生命",
+                    "hiragana": "めい",
+                    "point": 1
+                }
+            },
+            "面": {
+                "1": {
+                    "string": "地面",
+                    "hiragana": "めん",
+                    "point": 1
+                }
+            },
+            "問": {
+                "1": {
+                    "string": "問題",
+                    "hiragana": "もん",
+                    "point": 0
+                }
+            },
+            "役": {
+                "1": {
+                    "string": "主役",
+                    "hiragana": "やく",
+                    "point": 1
+                }
+            },
+            "薬": {
+                "1": {
+                    "string": "風邪薬",
+                    "hiragana": "ぐすり",
+                    "point": 2
+                }
+            },
+            "由": {
+                "1": {
+                    "string": "自由",
+                    "hiragana": "ゆう",
+                    "point": 1
+                }
+            },
+            "油": {
+                "1": {
+                    "string": "石油",
+                    "hiragana": "ゆ",
+                    "point": 1
+                }
+            },
+            "有": {
+                "1": {
+                    "string": "有名",
+                    "hiragana": "ゆう",
+                    "point": 0
+                }
+            },
+            "遊": {
+                "1": {
+                    "string": "遊ぶ",
+                    "hiragana": "あそ",
+                    "point": 0
+                }
+            },
+            "予": {
+                "1": {
+                    "string": "予定",
+                    "hiragana": "よ",
+                    "point": 0
+                }
+            },
+            "羊": {
+                "1": {
+                    "string": "山羊",
+                    "hiragana": "やぎ",
+                    "point": 0
+                }
+            },
+            "洋": {
+                "1": {
+                    "string": "洋服",
+                    "hiragana": "よう",
+                    "point": 0
+                }
+            },
+            "葉": {
+                "1": {
+                    "string": "言葉",
+                    "hiragana": "ば",
+                    "point": 1
+                }
+            },
+            "陽": {
+                "1": {
+                    "string": "太陽",
+                    "hiragana": "よう",
+                    "point": 1
+                }
+            },
+            "様": {
+                "1": {
+                    "string": "王様",
+                    "hiragana": "さま",
+                    "point": 1
+                }
+            },
+            "落": {
+                "1": {
+                    "string": "落ちる",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "流": {
+                "1": {
+                    "string": "流れる",
+                    "hiragana": "なが",
+                    "point": 0
+                }
+            },
+            "旅": {
+                "1": {
+                    "string": "旅行",
+                    "hiragana": "りょ",
+                    "point": 0
+                }
+            },
+            "両": {
+                "1": {
+                    "string": "両方",
+                    "hiragana": "りょう",
+                    "point": 0
+                }
+            },
+            "緑": {
+                "1": {
+                    "string": "新緑",
+                    "hiragana": "りょく",
+                    "point": 1
+                }
+            },
+            "礼": {
+                "1": {
+                    "string": "お礼",
+                    "hiragana": "れい",
+                    "point": 1
+                }
+            },
+            "列": {
+                "1": {
+                    "string": "行列",
+                    "hiragana": "れつ",
+                    "point": 1
+                }
+            },
+            "練": {
+                "1": {
+                    "string": "練習",
+                    "hiragana": "れん",
+                    "point": 0
+                }
+            },
+            "路": {
+                "1": {
+                    "string": "道路",
+                    "hiragana": "ろ",
+                    "point": 1
+                }
+            },
+            "和": {
+                "1": {
+                    "string": "平和",
+                    "hiragana": "わ",
+                    "point": 1
+                }
+            }
+        },
+        "four": {
+            "愛": {
+                "1": {
+                    "string": "愛情",
+                    "hiragana": "あい",
+                    "point": 0
+                }
+            },
+            "案": {
+                "1": {
+                    "string": "案内",
+                    "hiragana": "あん",
+                    "point": 0
+                }
+            },
+            "以": {
+                "1": {
+                    "string": "以上",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "衣": {
+                "1": {
+                    "string": "衣服",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "位": {
+                "1": {
+                    "string": "一位",
+                    "hiragana": "い",
+                    "point": 1
+                }
+            },
+            "囲": {
+                "1": {
+                    "string": "囲む",
+                    "hiragana": "かこ",
+                    "point": 0
+                }
+            },
+            "胃": {
+                "1": {
+                    "string": "胃腸",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "印": {
+                "1": {
+                    "string": "目印",
+                    "hiragana": "じるし",
+                    "point": 1
+                }
+            },
+            "英": {
+                "1": {
+                    "string": "英語",
+                    "hiragana": "えい",
+                    "point": 0
+                }
+            },
+            "栄": {
+                "1": {
+                    "string": "栄養",
+                    "hiragana": "えい",
+                    "point": 0
+                }
+            },
+            "塩": {
+                "1": {
+                    "string": "食塩",
+                    "hiragana": "えん",
+                    "point": 1
+                }
+            },
+            "億": {
+                "1": {
+                    "string": "一億",
+                    "hiragana": "おく",
+                    "point": 1
+                }
+            },
+            "加": {
+                "1": {
+                    "string": "参加",
+                    "hiragana": "か",
+                    "point": 1
+                }
+            },
+            "果": {
+                "1": {
+                    "string": "果物",
+                    "hiragana": "くだ",
+                    "point": 0
+                }
+            },
+            "貨": {
+                "1": {
+                    "string": "硬貨",
+                    "hiragana": "か",
+                    "point": 1
+                }
+            },
+            "課": {
+                "1": {
+                    "string": "放課後",
+                    "hiragana": "か",
+                    "point": 1
+                }
+            },
+            "芽": {
+                "1": {
+                    "string": "発芽",
+                    "hiragana": "が",
+                    "point": 1
+                }
+            },
+            "改": {
+                "1": {
+                    "string": "改良",
+                    "hiragana": "かい",
+                    "point": 0
+                }
+            },
+            "械": {
+                "1": {
+                    "string": "機械",
+                    "hiragana": "かい",
+                    "point": 1
+                }
+            },
+            "害": {
+                "1": {
+                    "string": "公害",
+                    "hiragana": "がい",
+                    "point": 1
+                }
+            },
+            "街": {
+                "1": {
+                    "string": "商店街",
+                    "hiragana": "がい",
+                    "point": 2
+                }
+            },
+            "各": {
+                "1": {
+                    "string": "各自",
+                    "hiragana": "かく",
+                    "point": 0
+                }
+            },
+            "覚": {
+                "1": {
+                    "string": "覚える",
+                    "hiragana": "おぼ",
+                    "point": 0
+                }
+            },
+            "完": {
+                "1": {
+                    "string": "完成",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "官": {
+                "1": {
+                    "string": "警官",
+                    "hiragana": "かん",
+                    "point": 1
+                }
+            },
+            "管": {
+                "1": {
+                    "string": "管理",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "関": {
+                "1": {
+                    "string": "関係",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "観": {
+                "1": {
+                    "string": "観察",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "願": {
+                "1": {
+                    "string": "お願い",
+                    "hiragana": "ねが",
+                    "point": 1
+                }
+            },
+            "希": {
+                "1": {
+                    "string": "希望",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "季": {
+                "1": {
+                    "string": "季節",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "紀": {
+                "1": {
+                    "string": "世紀",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "喜": {
+                "1": {
+                    "string": "喜ぶ",
+                    "hiragana": "よろこ",
+                    "point": 0
+                }
+            },
+            "旗": {
+                "1": {
+                    "string": "国旗",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "器": {
+                "1": {
+                    "string": "楽器",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "機": {
+                "1": {
+                    "string": "飛行機",
+                    "hiragana": "き",
+                    "point": 2
+                }
+            },
+            "議": {
+                "1": {
+                    "string": "会議",
+                    "hiragana": "ぎ",
+                    "point": 1
+                }
+            },
+            "求": {
+                "1": {
+                    "string": "求める",
+                    "hiragana": "もと",
+                    "point": 0
+                }
+            },
+            "泣": {
+                "1": {
+                    "string": "泣く",
+                    "hiragana": "な",
+                    "point": 0
+                }
+            },
+            "救": {
+                "1": {
+                    "string": "救急車",
+                    "hiragana": "きゅう",
+                    "point": 0
+                }
+            },
+            "給": {
+                "1": {
+                    "string": "給食",
+                    "hiragana": "きゅう",
+                    "point": 0
+                }
+            },
+            "挙": {
+                "1": {
+                    "string": "選挙",
+                    "hiragana": "きょ",
+                    "point": 1
+                }
+            },
+            "漁": {
+                "1": {
+                    "string": "漁業",
+                    "hiragana": "ぎょ",
+                    "point": 0
+                }
+            },
+            "共": {
+                "1": {
+                    "string": "共通",
+                    "hiragana": "きょう",
+                    "point": 0
+                }
+            },
+            "協": {
+                "1": {
+                    "string": "協力",
+                    "hiragana": "きょう",
+                    "point": 0
+                }
+            },
+            "鏡": {
+                "1": {
+                    "string": "望遠鏡",
+                    "hiragana": "きょう",
+                    "point": 2
+                }
+            },
+            "競": {
+                "1": {
+                    "string": "競争",
+                    "hiragana": "きょう",
+                    "point": 0
+                }
+            },
+            "極": {
+                "1": {
+                    "string": "南極",
+                    "hiragana": "きょく",
+                    "point": 1
+                }
+            },
+            "訓": {
+                "1": {
+                    "string": "訓練",
+                    "hiragana": "くん",
+                    "point": 0
+                }
+            },
+            "軍": {
+                "1": {
+                    "string": "軍手",
+                    "hiragana": "ぐん",
+                    "point": 0
+                }
+            },
+            "郡": {
+                "1": {
+                    "string": "〇〇郡",
+                    "hiragana": "ぐん",
+                    "point": 2
+                }
+            },
+            "径": {
+                "1": {
+                    "string": "半径",
+                    "hiragana": "けい",
+                    "point": 1
+                }
+            },
+            "型": {
+                "1": {
+                    "string": "大型",
+                    "hiragana": "がた",
+                    "point": 1
+                }
+            },
+            "景": {
+                "1": {
+                    "string": "景色",
+                    "hiragana": "けし",
+                    "point": 0
+                }
+            },
+            "芸": {
+                "1": {
+                    "string": "芸能",
+                    "hiragana": "げい",
+                    "point": 0
+                }
+            },
+            "欠": {
+                "1": {
+                    "string": "欠席",
+                    "hiragana": "けっ",
+                    "point": 0
+                }
+            },
+            "結": {
+                "1": {
+                    "string": "結婚",
+                    "hiragana": "けっ",
+                    "point": 0
+                }
+            },
+            "建": {
+                "1": {
+                    "string": "建てる",
+                    "hiragana": "た",
+                    "point": 0
+                }
+            },
+            "健": {
+                "1": {
+                    "string": "健康",
+                    "hiragana": "けん",
+                    "point": 0
+                }
+            },
+            "験": {
+                "1": {
+                    "string": "実験",
+                    "hiragana": "けん",
+                    "point": 1
+                }
+            },
+            "固": {
+                "1": {
+                    "string": "固い",
+                    "hiragana": "かた",
+                    "point": 0
+                }
+            },
+            "功": {
+                "1": {
+                    "string": "成功",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "好": {
+                "1": {
+                    "string": "好き",
+                    "hiragana": "す",
+                    "point": 0
+                }
+            },
+            "候": {
+                "1": {
+                    "string": "気候",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "航": {
+                "1": {
+                    "string": "航空",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "康": {
+                "1": {
+                    "string": "健康",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "告": {
+                "1": {
+                    "string": "報告",
+                    "hiragana": "こく",
+                    "point": 1
+                }
+            },
+            "差": {
+                "1": {
+                    "string": "交差点",
+                    "hiragana": "さ",
+                    "point": 1
+                }
+            },
+            "菜": {
+                "1": {
+                    "string": "野菜",
+                    "hiragana": "さい",
+                    "point": 1
+                }
+            },
+            "最": {
+                "1": {
+                    "string": "最後",
+                    "hiragana": "さい",
+                    "point": 0
+                }
+            },
+            "材": {
+                "1": {
+                    "string": "材料",
+                    "hiragana": "ざい",
+                    "point": 0
+                }
+            },
+            "昨": {
+                "1": {
+                    "string": "昨日",
+                    "hiragana": "きのう",
+                    "point": 0
+                }
+            },
+            "札": {
+                "1": {
+                    "string": "名札",
+                    "hiragana": "ふだ",
+                    "point": 1
+                }
+            },
+            "刷": {
+                "1": {
+                    "string": "印刷",
+                    "hiragana": "さつ",
+                    "point": 1
+                }
+            },
+            "殺": {
+                "1": {
+                    "string": "殺人",
+                    "hiragana": "さつ",
+                    "point": 0
+                }
+            },
+            "察": {
+                "1": {
+                    "string": "警察",
+                    "hiragana": "さつ",
+                    "point": 1
+                }
+            },
+            "参": {
+                "1": {
+                    "string": "参加",
+                    "hiragana": "さん",
+                    "point": 0
+                }
+            },
+            "産": {
+                "1": {
+                    "string": "生産",
+                    "hiragana": "さん",
+                    "point": 1
+                }
+            },
+            "散": {
+                "1": {
+                    "string": "散歩",
+                    "hiragana": "さん",
+                    "point": 0
+                }
+            },
+            "残": {
+                "1": {
+                    "string": "残る",
+                    "hiragana": "のこ",
+                    "point": 0
+                }
+            },
+            "士": {
+                "1": {
+                    "string": "武士",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "氏": {
+                "1": {
+                    "string": "氏名",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "史": {
+                "1": {
+                    "string": "歴史",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "司": {
+                "1": {
+                    "string": "司会",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "試": {
+                "1": {
+                    "string": "試合",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "児": {
+                "1": {
+                    "string": "児童",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "治": {
+                "1": {
+                    "string": "政治",
+                    "hiragana": "じ",
+                    "point": 1
+                }
+            },
+            "辞": {
+                "1": {
+                    "string": "辞典",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "失": {
+                "1": {
+                    "string": "失敗",
+                    "hiragana": "しっ",
+                    "point": 0
+                }
+            },
+            "借": {
+                "1": {
+                    "string": "借りる",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "種": {
+                "1": {
+                    "string": "種類",
+                    "hiragana": "しゅ",
+                    "point": 0
+                }
+            },
+            "周": {
+                "1": {
+                    "string": "周囲",
+                    "hiragana": "しゅう",
+                    "point": 0
+                }
+            },
+            "祝": {
+                "1": {
+                    "string": "祝日",
+                    "hiragana": "しゅく",
+                    "point": 0
+                }
+            },
+            "順": {
+                "1": {
+                    "string": "順番",
+                    "hiragana": "じゅん",
+                    "point": 0
+                }
+            },
+            "初": {
+                "1": {
+                    "string": "初めて",
+                    "hiragana": "はじ",
+                    "point": 0
+                }
+            },
+            "松": {
+                "1": {
+                    "string": "松の木",
+                    "hiragana": "まつ",
+                    "point": 0
+                }
+            },
+            "笑": {
+                "1": {
+                    "string": "笑う",
+                    "hiragana": "わら",
+                    "point": 0
+                }
+            },
+            "唱": {
+                "1": {
+                    "string": "合唱",
+                    "hiragana": "しょう",
+                    "point": 1
+                }
+            },
+            "焼": {
+                "1": {
+                    "string": "焼く",
+                    "hiragana": "や",
+                    "point": 0
+                }
+            },
+            "象": {
+                "1": {
+                    "string": "動物の象",
+                    "hiragana": "ぞう",
+                    "point": 3
+                }
+            },
+            "照": {
+                "1": {
+                    "string": "照明",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "賞": {
+                "1": {
+                    "string": "賞品",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "臣": {
+                "1": {
+                    "string": "大臣",
+                    "hiragana": "じん",
+                    "point": 1
+                }
+            },
+            "信": {
+                "1": {
+                    "string": "信用",
+                    "hiragana": "しん",
+                    "point": 0
+                }
+            },
+            "成": {
+                "1": {
+                    "string": "成長",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "省": {
+                "1": {
+                    "string": "反省",
+                    "hiragana": "せい",
+                    "point": 1
+                }
+            },
+            "清": {
+                "1": {
+                    "string": "清い",
+                    "hiragana": "きよ",
+                    "point": 0
+                }
+            },
+            "静": {
+                "1": {
+                    "string": "静か",
+                    "hiragana": "しず",
+                    "point": 0
+                }
+            },
+            "席": {
+                "1": {
+                    "string": "出席",
+                    "hiragana": "せき",
+                    "point": 1
+                }
+            },
+            "積": {
+                "1": {
+                    "string": "面積",
+                    "hiragana": "せき",
+                    "point": 1
+                }
+            },
+            "折": {
+                "1": {
+                    "string": "手折る",
+                    "hiragana": "お",
+                    "point": 1
+                }
+            },
+            "節": {
+                "1": {
+                    "string": "季節",
+                    "hiragana": "せつ",
+                    "point": 1
+                }
+            },
+            "説": {
+                "1": {
+                    "string": "小説",
+                    "hiragana": "せつ",
+                    "point": 1
+                }
+            },
+            "浅": {
+                "1": {
+                    "string": "浅い",
+                    "hiragana": "あさ",
+                    "point": 0
+                }
+            },
+            "戦": {
+                "1": {
+                    "string": "戦争",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "選": {
+                "1": {
+                    "string": "選ぶ",
+                    "hiragana": "えら",
+                    "point": 0
+                }
+            },
+            "然": {
+                "1": {
+                    "string": "自然",
+                    "hiragana": "ぜん",
+                    "point": 1
+                }
+            },
+            "争": {
+                "1": {
+                    "string": "戦争",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "倉": {
+                "1": {
+                    "string": "倉庫",
+                    "hiragana": "そう",
+                    "point": 0
+                }
+            },
+            "巣": {
+                "1": {
+                    "string": "鳥の巣",
+                    "hiragana": "す",
+                    "point": 2
+                }
+            },
+            "束": {
+                "1": {
+                    "string": "花束",
+                    "hiragana": "たば",
+                    "point": 1
+                }
+            },
+            "側": {
+                "1": {
+                    "string": "右側",
+                    "hiragana": "がわ",
+                    "point": 1
+                }
+            },
+            "続": {
+                "1": {
+                    "string": "続く",
+                    "hiragana": "つづ",
+                    "point": 0
+                }
+            },
+            "卒": {
+                "1": {
+                    "string": "卒業",
+                    "hiragana": "そつ",
+                    "point": 0
+                }
+            },
+            "孫": {
+                "1": {
+                    "string": "子孫",
+                    "hiragana": "そん",
+                    "point": 1
+                }
+            },
+            "帯": {
+                "1": {
+                    "string": "地帯",
+                    "hiragana": "たい",
+                    "point": 1
+                }
+            },
+            "隊": {
+                "1": {
+                    "string": "軍隊",
+                    "hiragana": "たい",
+                    "point": 1
+                }
+            },
+            "達": {
+                "1": {
+                    "string": "友達",
+                    "hiragana": "だち",
+                    "point": 1
+                }
+            },
+            "単": {
+                "1": {
+                    "string": "単語",
+                    "hiragana": "たん",
+                    "point": 0
+                }
+            },
+            "置": {
+                "1": {
+                    "string": "置く",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "仲": {
+                "1": {
+                    "string": "仲間",
+                    "hiragana": "なか",
+                    "point": 0
+                }
+            },
+            "貯": {
+                "1": {
+                    "string": "貯金",
+                    "hiragana": "ちょ",
+                    "point": 0
+                }
+            },
+            "兆": {
+                "1": {
+                    "string": "一兆",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "腸": {
+                "1": {
+                    "string": "胃腸",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "低": {
+                "1": {
+                    "string": "低い",
+                    "hiragana": "ひく",
+                    "point": 0
+                }
+            },
+            "底": {
+                "1": {
+                    "string": "海底",
+                    "hiragana": "てい",
+                    "point": 1
+                }
+            },
+            "停": {
+                "1": {
+                    "string": "停止",
+                    "hiragana": "てい",
+                    "point": 0
+                }
+            },
+            "的": {
+                "1": {
+                    "string": "目的",
+                    "hiragana": "てき",
+                    "point": 1
+                }
+            },
+            "典": {
+                "1": {
+                    "string": "辞典",
+                    "hiragana": "てん",
+                    "point": 1
+                }
+            },
+            "伝": {
+                "1": {
+                    "string": "手伝う",
+                    "hiragana": "つだ",
+                    "point": 1
+                }
+            },
+            "徒": {
+                "1": {
+                    "string": "生徒",
+                    "hiragana": "と",
+                    "point": 1
+                }
+            },
+            "努": {
+                "1": {
+                    "string": "努力",
+                    "hiragana": "ど",
+                    "point": 0
+                }
+            },
+            "灯": {
+                "1": {
+                    "string": "電灯",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "堂": {
+                "1": {
+                    "string": "食堂",
+                    "hiragana": "どう",
+                    "point": 1
+                }
+            },
+            "働": {
+                "1": {
+                    "string": "働く",
+                    "hiragana": "はたら",
+                    "point": 0
+                }
+            },
+            "特": {
+                "1": {
+                    "string": "特別",
+                    "hiragana": "とく",
+                    "point": 0
+                }
+            },
+            "得": {
+                "1": {
+                    "string": "得意",
+                    "hiragana": "とく",
+                    "point": 0
+                }
+            },
+            "毒": {
+                "1": {
+                    "string": "消毒",
+                    "hiragana": "どく",
+                    "point": 1
+                }
+            },
+            "熱": {
+                "1": {
+                    "string": "熱い",
+                    "hiragana": "あつ",
+                    "point": 0
+                }
+            },
+            "念": {
+                "1": {
+                    "string": "残念",
+                    "hiragana": "ねん",
+                    "point": 1
+                }
+            },
+            "敗": {
+                "1": {
+                    "string": "失敗",
+                    "hiragana": "ぱい",
+                    "point": 1
+                }
+            },
+            "梅": {
+                "1": {
+                    "string": "梅干し",
+                    "hiragana": "うめ",
+                    "point": 0
+                }
+            },
+            "博": {
+                "1": {
+                    "string": "博士",
+                    "hiragana": "はか",
+                    "point": 0
+                }
+            },
+            "飯": {
+                "1": {
+                    "string": "ご飯",
+                    "hiragana": "はん",
+                    "point": 1
+                }
+            },
+            "飛": {
+                "1": {
+                    "string": "飛ぶ",
+                    "hiragana": "と",
+                    "point": 0
+                }
+            },
+            "費": {
+                "1": {
+                    "string": "費用",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "必": {
+                "1": {
+                    "string": "必ず",
+                    "hiragana": "かなら",
+                    "point": 0
+                }
+            },
+            "票": {
+                "1": {
+                    "string": "投票",
+                    "hiragana": "ひょう",
+                    "point": 1
+                }
+            },
+            "標": {
+                "1": {
+                    "string": "目標",
+                    "hiragana": "ひょう",
+                    "point": 1
+                }
+            },
+            "不": {
+                "1": {
+                    "string": "不安",
+                    "hiragana": "ふ",
+                    "point": 0
+                }
+            },
+            "夫": {
+                "1": {
+                    "string": "夫婦",
+                    "hiragana": "ふう",
+                    "point": 1
+                }
+            },
+            "付": {
+                "1": {
+                    "string": "気付く",
+                    "hiragana": "づ",
+                    "point": 1
+                }
+            },
+            "府": {
+                "1": {
+                    "string": "大阪府",
+                    "hiragana": "ふ",
+                    "point": 2
+                }
+            },
+            "副": {
+                "1": {
+                    "string": "副社長",
+                    "hiragana": "ふく",
+                    "point": 0
+                }
+            },
+            "粉": {
+                "1": {
+                    "string": "小麦粉",
+                    "hiragana": "こ",
+                    "point": 2
+                }
+            },
+            "兵": {
+                "1": {
+                    "string": "兵士",
+                    "hiragana": "へい",
+                    "point": 0
+                }
+            },
+            "別": {
+                "1": {
+                    "string": "特別",
+                    "hiragana": "べつ",
+                    "point": 1
+                }
+            },
+            "辺": {
+                "1": {
+                    "string": "辺り",
+                    "hiragana": "あた",
+                    "point": 0
+                }
+            },
+            "変": {
+                "1": {
+                    "string": "大変",
+                    "hiragana": "へん",
+                    "point": 1
+                }
+            },
+            "便": {
+                "1": {
+                    "string": "便利",
+                    "hiragana": "べん",
+                    "point": 0
+                }
+            },
+            "包": {
+                "1": {
+                    "string": "包む",
+                    "hiragana": "つつ",
+                    "point": 0
+                }
+            },
+            "法": {
+                "1": {
+                    "string": "方法",
+                    "hiragana": "ほう",
+                    "point": 1
+                }
+            },
+            "望": {
+                "1": {
+                    "string": "希望",
+                    "hiragana": "ぼう",
+                    "point": 1
+                }
+            },
+            "牧": {
+                "1": {
+                    "string": "牧場",
+                    "hiragana": "ぼく",
+                    "point": 0
+                }
+            },
+            "末": {
+                "1": {
+                    "string": "週末",
+                    "hiragana": "まつ",
+                    "point": 1
+                }
+            },
+            "満": {
+                "1": {
+                    "string": "満点",
+                    "hiragana": "まん",
+                    "point": 0
+                }
+            },
+            "未": {
+                "1": {
+                    "string": "未来",
+                    "hiragana": "み",
+                    "point": 0
+                }
+            },
+            "脈": {
+                "1": {
+                    "string": "山脈",
+                    "hiragana": "みゃく",
+                    "point": 1
+                }
+            },
+            "民": {
+                "1": {
+                    "string": "国民",
+                    "hiragana": "みん",
+                    "point": 1
+                }
+            },
+            "無": {
+                "1": {
+                    "string": "無い",
+                    "hiragana": "な",
+                    "point": 0
+                }
+            },
+            "約": {
+                "1": {
+                    "string": "約束",
+                    "hiragana": "やく",
+                    "point": 0
+                }
+            },
+            "勇": {
+                "1": {
+                    "string": "勇気",
+                    "hiragana": "ゆう",
+                    "point": 0
+                }
+            },
+            "要": {
+                "1": {
+                    "string": "必要",
+                    "hiragana": "よう",
+                    "point": 1
+                }
+            },
+            "養": {
+                "1": {
+                    "string": "栄養",
+                    "hiragana": "よう",
+                    "point": 1
+                }
+            },
+            "浴": {
+                "1": {
+                    "string": "入浴",
+                    "hiragana": "よく",
+                    "point": 1
+                }
+            },
+            "利": {
+                "1": {
+                    "string": "便利",
+                    "hiragana": "り",
+                    "point": 1
+                }
+            },
+            "陸": {
+                "1": {
+                    "string": "大陸",
+                    "hiragana": "りく",
+                    "point": 1
+                }
+            },
+            "良": {
+                "1": {
+                    "string": "良い",
+                    "hiragana": "よ",
+                    "point": 0
+                }
+            },
+            "料": {
+                "1": {
+                    "string": "料理",
+                    "hiragana": "りょう",
+                    "point": 0
+                }
+            },
+            "量": {
+                "1": {
+                    "string": "分量",
+                    "hiragana": "りょう",
+                    "point": 1
+                }
+            },
+            "輪": {
+                "1": {
+                    "string": "指輪",
+                    "hiragana": "わ",
+                    "point": 1
+                }
+            },
+            "類": {
+                "1": {
+                    "string": "種類",
+                    "hiragana": "るい",
+                    "point": 1
+                }
+            },
+            "令": {
+                "1": {
+                    "string": "命令",
+                    "hiragana": "れい",
+                    "point": 1
+                }
+            },
+            "冷": {
+                "1": {
+                    "string": "冷たい",
+                    "hiragana": "つめ",
+                    "point": 0
+                }
+            },
+            "例": {
+                "1": {
+                    "string": "例えば",
+                    "hiragana": "たと",
+                    "point": 0
+                }
+            },
+            "歴": {
+                "1": {
+                    "string": "歴史",
+                    "hiragana": "れき",
+                    "point": 0
+                }
+            },
+            "連": {
+                "1": {
+                    "string": "連絡",
+                    "hiragana": "れん",
+                    "point": 0
+                }
+            },
+            "老": {
+                "1": {
+                    "string": "老人",
+                    "hiragana": "ろう",
+                    "point": 0
+                }
+            },
+            "労": {
+                "1": {
+                    "string": "労働",
+                    "hiragana": "ろう",
+                    "point": 0
+                }
+            },
+            "録": {
+                "1": {
+                    "string": "記録",
+                    "hiragana": "ろく",
+                    "point": 1
+                }
+            }
+        },
+        "five": {
+            "圧": {
+                "1": {
+                    "string": "血圧",
+                    "hiragana": "あつ",
+                    "point": 1
+                }
+            },
+            "移": {
+                "1": {
+                    "string": "移動",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "因": {
+                "1": {
+                    "string": "原因",
+                    "hiragana": "いん",
+                    "point": 1
+                }
+            },
+            "永": {
+                "1": {
+                    "string": "永遠",
+                    "hiragana": "えい",
+                    "point": 0
+                }
+            },
+            "営": {
+                "1": {
+                    "string": "経営",
+                    "hiragana": "えい",
+                    "point": 1
+                }
+            },
+            "衛": {
+                "1": {
+                    "string": "衛生",
+                    "hiragana": "えい",
+                    "point": 0
+                }
+            },
+            "易": {
+                "1": {
+                    "string": "貿易",
+                    "hiragana": "えき",
+                    "point": 1
+                }
+            },
+            "益": {
+                "1": {
+                    "string": "利益",
+                    "hiragana": "えき",
+                    "point": 1
+                }
+            },
+            "液": {
+                "1": {
+                    "string": "液体",
+                    "hiragana": "えき",
+                    "point": 0
+                }
+            },
+            "演": {
+                "1": {
+                    "string": "演技",
+                    "hiragana": "えん",
+                    "point": 0
+                }
+            },
+            "応": {
+                "1": {
+                    "string": "応用",
+                    "hiragana": "おう",
+                    "point": 0
+                }
+            },
+            "往": {
+                "1": {
+                    "string": "往復",
+                    "hiragana": "おう",
+                    "point": 0
+                }
+            },
+            "桜": {
+                "1": {
+                    "string": "桜の花",
+                    "hiragana": "さくら",
+                    "point": 0
+                }
+            },
+            "恩": {
+                "1": {
+                    "string": "恩返し",
+                    "hiragana": "おん",
+                    "point": 0
+                }
+            },
+            "可": {
+                "1": {
+                    "string": "可能",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "仮": {
+                "1": {
+                    "string": "仮名",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "価": {
+                "1": {
+                    "string": "価格",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "河": {
+                "1": {
+                    "string": "河川",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "過": {
+                "1": {
+                    "string": "過去",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "賀": {
+                "1": {
+                    "string": "年賀状",
+                    "hiragana": "が",
+                    "point": 1
+                }
+            },
+            "快": {
+                "1": {
+                    "string": "快速",
+                    "hiragana": "かい",
+                    "point": 0
+                }
+            },
+            "解": {
+                "1": {
+                    "string": "解決",
+                    "hiragana": "かい",
+                    "point": 0
+                }
+            },
+            "格": {
+                "1": {
+                    "string": "性格",
+                    "hiragana": "かく",
+                    "point": 1
+                }
+            },
+            "確": {
+                "1": {
+                    "string": "確認",
+                    "hiragana": "かく",
+                    "point": 0
+                }
+            },
+            "額": {
+                "1": {
+                    "string": "金額",
+                    "hiragana": "がく",
+                    "point": 1
+                }
+            },
+            "刊": {
+                "1": {
+                    "string": "朝刊",
+                    "hiragana": "かん",
+                    "point": 1
+                }
+            },
+            "幹": {
+                "1": {
+                    "string": "新幹線",
+                    "hiragana": "かん",
+                    "point": 1
+                }
+            },
+            "慣": {
+                "1": {
+                    "string": "習慣",
+                    "hiragana": "かん",
+                    "point": 1
+                }
+            },
+            "眼": {
+                "1": {
+                    "string": "眼科",
+                    "hiragana": "がん",
+                    "point": 0
+                }
+            },
+            "基": {
+                "1": {
+                    "string": "基本",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "寄": {
+                "1": {
+                    "string": "寄付",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "規": {
+                "1": {
+                    "string": "規則",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "技": {
+                "1": {
+                    "string": "技術",
+                    "hiragana": "ぎ",
+                    "point": 0
+                }
+            },
+            "義": {
+                "1": {
+                    "string": "義務",
+                    "hiragana": "ぎ",
+                    "point": 0
+                }
+            },
+            "逆": {
+                "1": {
+                    "string": "逆転",
+                    "hiragana": "ぎゃく",
+                    "point": 0
+                }
+            },
+            "久": {
+                "1": {
+                    "string": "永遠",
+                    "hiragana": "きゅう",
+                    "point": 0
+                }
+            },
+            "旧": {
+                "1": {
+                    "string": "旧正月",
+                    "hiragana": "きゅう",
+                    "point": 0
+                }
+            },
+            "居": {
+                "1": {
+                    "string": "居間",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "許": {
+                "1": {
+                    "string": "許可",
+                    "hiragana": "きょ",
+                    "point": 0
+                }
+            },
+            "境": {
+                "1": {
+                    "string": "国境",
+                    "hiragana": "きょう",
+                    "point": 1
+                }
+            },
+            "均": {
+                "1": {
+                    "string": "平均",
+                    "hiragana": "きん",
+                    "point": 1
+                }
+            },
+            "禁": {
+                "1": {
+                    "string": "禁止",
+                    "hiragana": "きん",
+                    "point": 0
+                }
+            },
+            "句": {
+                "1": {
+                    "string": "俳句",
+                    "hiragana": "く",
+                    "point": 1
+                }
+            },
+            "群": {
+                "1": {
+                    "string": "群れ",
+                    "hiragana": "む",
+                    "point": 0
+                }
+            },
+            "経": {
+                "1": {
+                    "string": "経済",
+                    "hiragana": "けい",
+                    "point": 0
+                }
+            },
+            "潔": {
+                "1": {
+                    "string": "清潔",
+                    "hiragana": "けつ",
+                    "point": 1
+                }
+            },
+            "件": {
+                "1": {
+                    "string": "事件",
+                    "hiragana": "けん",
+                    "point": 1
+                }
+            },
+            "券": {
+                "1": {
+                    "string": "乗車券",
+                    "hiragana": "けん",
+                    "point": 2
+                }
+            },
+            "険": {
+                "1": {
+                    "string": "危険",
+                    "hiragana": "けん",
+                    "point": 1
+                }
+            },
+            "検": {
+                "1": {
+                    "string": "検査",
+                    "hiragana": "けん",
+                    "point": 0
+                }
+            },
+            "限": {
+                "1": {
+                    "string": "限界",
+                    "hiragana": "げん",
+                    "point": 0
+                }
+            },
+            "現": {
+                "1": {
+                    "string": "現在",
+                    "hiragana": "げん",
+                    "point": 0
+                }
+            },
+            "減": {
+                "1": {
+                    "string": "減る",
+                    "hiragana": "へ",
+                    "point": 0
+                }
+            },
+            "故": {
+                "1": {
+                    "string": "事故",
+                    "hiragana": "こ",
+                    "point": 1
+                }
+            },
+            "個": {
+                "1": {
+                    "string": "個人",
+                    "hiragana": "こ",
+                    "point": 0
+                }
+            },
+            "護": {
+                "1": {
+                    "string": "保護",
+                    "hiragana": "ご",
+                    "point": 1
+                }
+            },
+            "効": {
+                "1": {
+                    "string": "効果",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "厚": {
+                "1": {
+                    "string": "厚い",
+                    "hiragana": "あつ",
+                    "point": 0
+                }
+            },
+            "耕": {
+                "1": {
+                    "string": "耕す",
+                    "hiragana": "たがや",
+                    "point": 0
+                }
+            },
+            "鉱": {
+                "1": {
+                    "string": "鉱物",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "構": {
+                "1": {
+                    "string": "構造",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "興": {
+                "1": {
+                    "string": "興味",
+                    "hiragana": "きょう",
+                    "point": 0
+                }
+            },
+            "講": {
+                "1": {
+                    "string": "講演",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "混": {
+                "1": {
+                    "string": "混雑",
+                    "hiragana": "こん",
+                    "point": 0
+                }
+            },
+            "査": {
+                "1": {
+                    "string": "検査",
+                    "hiragana": "さ",
+                    "point": 1
+                }
+            },
+            "災": {
+                "1": {
+                    "string": "火災",
+                    "hiragana": "さい",
+                    "point": 1
+                }
+            },
+            "採": {
+                "1": {
+                    "string": "採用",
+                    "hiragana": "さい",
+                    "point": 0
+                }
+            },
+            "賛": {
+                "1": {
+                    "string": "賛成",
+                    "hiragana": "さん",
+                    "point": 0
+                }
+            },
+            "酸": {
+                "1": {
+                    "string": "酸素",
+                    "hiragana": "さん",
+                    "point": 0
+                }
+            },
+            "支": {
+                "1": {
+                    "string": "支店",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "志": {
+                "1": {
+                    "string": "意志",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "枝": {
+                "1": {
+                    "string": "木の枝",
+                    "hiragana": "えだ",
+                    "point": 2
+                }
+            },
+            "師": {
+                "1": {
+                    "string": "教師",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "資": {
+                "1": {
+                    "string": "資料",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "飼": {
+                "1": {
+                    "string": "飼う",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "示": {
+                "1": {
+                    "string": "指示",
+                    "hiragana": "じ",
+                    "point": 1
+                }
+            },
+            "似": {
+                "1": {
+                    "string": "似る",
+                    "hiragana": "に",
+                    "point": 0
+                }
+            },
+            "識": {
+                "1": {
+                    "string": "知識",
+                    "hiragana": "しき",
+                    "point": 1
+                }
+            },
+            "質": {
+                "1": {
+                    "string": "質問",
+                    "hiragana": "しつ",
+                    "point": 0
+                }
+            },
+            "舎": {
+                "1": {
+                    "string": "校舎",
+                    "hiragana": "しゃ",
+                    "point": 1
+                }
+            },
+            "謝": {
+                "1": {
+                    "string": "感謝",
+                    "hiragana": "しゃ",
+                    "point": 1
+                }
+            },
+            "授": {
+                "1": {
+                    "string": "授業",
+                    "hiragana": "じゅ",
+                    "point": 0
+                }
+            },
+            "修": {
+                "1": {
+                    "string": "修理",
+                    "hiragana": "しゅう",
+                    "point": 0
+                }
+            },
+            "述": {
+                "1": {
+                    "string": "述べる",
+                    "hiragana": "の",
+                    "point": 0
+                }
+            },
+            "術": {
+                "1": {
+                    "string": "技術",
+                    "hiragana": "じゅつ",
+                    "point": 1
+                }
+            },
+            "準": {
+                "1": {
+                    "string": "準備",
+                    "hiragana": "じゅん",
+                    "point": 0
+                }
+            },
+            "序": {
+                "1": {
+                    "string": "順序",
+                    "hiragana": "じょ",
+                    "point": 1
+                }
+            },
+            "招": {
+                "1": {
+                    "string": "招待",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "承": {
+                "1": {
+                    "string": "承知",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "証": {
+                "1": {
+                    "string": "証明",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "条": {
+                "1": {
+                    "string": "条件",
+                    "hiragana": "じょう",
+                    "point": 0
+                }
+            },
+            "状": {
+                "1": {
+                    "string": "状態",
+                    "hiragana": "じょう",
+                    "point": 0
+                }
+            },
+            "常": {
+                "1": {
+                    "string": "日常",
+                    "hiragana": "じょう",
+                    "point": 1
+                }
+            },
+            "情": {
+                "1": {
+                    "string": "情報",
+                    "hiragana": "じょう",
+                    "point": 0
+                }
+            },
+            "織": {
+                "1": {
+                    "string": "組織",
+                    "hiragana": "しき",
+                    "point": 1
+                }
+            },
+            "職": {
+                "1": {
+                    "string": "職業",
+                    "hiragana": "しょく",
+                    "point": 0
+                }
+            },
+            "制": {
+                "1": {
+                    "string": "制限",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "性": {
+                "1": {
+                    "string": "性格",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "政": {
+                "1": {
+                    "string": "政治",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "勢": {
+                "1": {
+                    "string": "姿勢",
+                    "hiragana": "せい",
+                    "point": 1
+                }
+            },
+            "精": {
+                "1": {
+                    "string": "精神",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "製": {
+                "1": {
+                    "string": "製品",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "税": {
+                "1": {
+                    "string": "税金",
+                    "hiragana": "ぜい",
+                    "point": 0
+                }
+            },
+            "責": {
+                "1": {
+                    "string": "責任",
+                    "hiragana": "せき",
+                    "point": 0
+                }
+            },
+            "績": {
+                "1": {
+                    "string": "成績",
+                    "hiragana": "せき",
+                    "point": 1
+                }
+            },
+            "接": {
+                "1": {
+                    "string": "直接",
+                    "hiragana": "せつ",
+                    "point": 1
+                }
+            },
+            "設": {
+                "1": {
+                    "string": "設定",
+                    "hiragana": "せつ",
+                    "point": 0
+                }
+            },
+            "舌": {
+                "1": {
+                    "string": "舌打ち",
+                    "hiragana": "した",
+                    "point": 0
+                }
+            },
+            "絶": {
+                "1": {
+                    "string": "絶対",
+                    "hiragana": "ぜっ",
+                    "point": 0
+                }
+            },
+            "銭": {
+                "1": {
+                    "string": "小銭",
+                    "hiragana": "ぜに",
+                    "point": 1
+                }
+            },
+            "祖": {
+                "1": {
+                    "string": "祖父",
+                    "hiragana": "そ",
+                    "point": 0
+                }
+            },
+            "素": {
+                "1": {
+                    "string": "酸素",
+                    "hiragana": "そ",
+                    "point": 1
+                }
+            },
+            "総": {
+                "1": {
+                    "string": "総合",
+                    "hiragana": "そう",
+                    "point": 0
+                }
+            },
+            "造": {
+                "1": {
+                    "string": "製造",
+                    "hiragana": "ぞう",
+                    "point": 1
+                }
+            },
+            "像": {
+                "1": {
+                    "string": "想像",
+                    "hiragana": "ぞう",
+                    "point": 1
+                }
+            },
+            "増": {
+                "1": {
+                    "string": "増える",
+                    "hiragana": "ふ",
+                    "point": 0
+                }
+            },
+            "則": {
+                "1": {
+                    "string": "規則",
+                    "hiragana": "そく",
+                    "point": 1
+                }
+            },
+            "測": {
+                "1": {
+                    "string": "測定",
+                    "hiragana": "そく",
+                    "point": 0
+                }
+            },
+            "属": {
+                "1": {
+                    "string": "金属",
+                    "hiragana": "ぞく",
+                    "point": 1
+                }
+            },
+            "率": {
+                "1": {
+                    "string": "確率",
+                    "hiragana": "りつ",
+                    "point": 1
+                }
+            },
+            "損": {
+                "1": {
+                    "string": "損害",
+                    "hiragana": "そん",
+                    "point": 0
+                }
+            },
+            "退": {
+                "1": {
+                    "string": "退院",
+                    "hiragana": "たい",
+                    "point": 0
+                }
+            },
+            "貸": {
+                "1": {
+                    "string": "貸す",
+                    "hiragana": "か",
+                    "point": 0
+                }
+            },
+            "態": {
+                "1": {
+                    "string": "態度",
+                    "hiragana": "たい",
+                    "point": 0
+                }
+            },
+            "団": {
+                "1": {
+                    "string": "団体",
+                    "hiragana": "だん",
+                    "point": 0
+                }
+            },
+            "断": {
+                "1": {
+                    "string": "断る",
+                    "hiragana": "ことわ",
+                    "point": 0
+                }
+            },
+            "築": {
+                "1": {
+                    "string": "建築",
+                    "hiragana": "ちく",
+                    "point": 1
+                }
+            },
+            "張": {
+                "1": {
+                    "string": "主張",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "提": {
+                "1": {
+                    "string": "提出",
+                    "hiragana": "てい",
+                    "point": 0
+                }
+            },
+            "程": {
+                "1": {
+                    "string": "程度",
+                    "hiragana": "てい",
+                    "point": 0
+                }
+            },
+            "適": {
+                "1": {
+                    "string": "適当",
+                    "hiragana": "てき",
+                    "point": 0
+                }
+            },
+            "敵": {
+                "1": {
+                    "string": "油断大敵",
+                    "hiragana": "てき",
+                    "point": 3
+                }
+            },
+            "統": {
+                "1": {
+                    "string": "伝統",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "銅": {
+                "1": {
+                    "string": "銅像",
+                    "hiragana": "どう",
+                    "point": 0
+                }
+            },
+            "導": {
+                "1": {
+                    "string": "指導",
+                    "hiragana": "どう",
+                    "point": 1
+                }
+            },
+            "徳": {
+                "1": {
+                    "string": "道徳",
+                    "hiragana": "とく",
+                    "point": 1
+                }
+            },
+            "独": {
+                "1": {
+                    "string": "独立",
+                    "hiragana": "どく",
+                    "point": 0
+                }
+            },
+            "任": {
+                "1": {
+                    "string": "責任",
+                    "hiragana": "にん",
+                    "point": 1
+                }
+            },
+            "燃": {
+                "1": {
+                    "string": "燃える",
+                    "hiragana": "も",
+                    "point": 0
+                }
+            },
+            "能": {
+                "1": {
+                    "string": "能力",
+                    "hiragana": "のう",
+                    "point": 0
+                }
+            },
+            "破": {
+                "1": {
+                    "string": "破れる",
+                    "hiragana": "やぶ",
+                    "point": 0
+                }
+            },
+            "犯": {
+                "1": {
+                    "string": "犯罪",
+                    "hiragana": "はん",
+                    "point": 0
+                }
+            },
+            "判": {
+                "1": {
+                    "string": "判断",
+                    "hiragana": "はん",
+                    "point": 0
+                }
+            },
+            "版": {
+                "1": {
+                    "string": "出版",
+                    "hiragana": "ばん",
+                    "point": 1
+                }
+            },
+            "比": {
+                "1": {
+                    "string": "比較",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "肥": {
+                "1": {
+                    "string": "肥料",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "非": {
+                "1": {
+                    "string": "非常",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "備": {
+                "1": {
+                    "string": "準備",
+                    "hiragana": "び",
+                    "point": 1
+                }
+            },
+            "俵": {
+                "1": {
+                    "string": "米俵",
+                    "hiragana": "だわら",
+                    "point": 1
+                }
+            },
+            "評": {
+                "1": {
+                    "string": "評価",
+                    "hiragana": "ひょう",
+                    "point": 0
+                }
+            },
+            "貧": {
+                "1": {
+                    "string": "貧しい",
+                    "hiragana": "まず",
+                    "point": 0
+                }
+            },
+            "布": {
+                "1": {
+                    "string": "毛布",
+                    "hiragana": "ふ",
+                    "point": 1
+                }
+            },
+            "婦": {
+                "1": {
+                    "string": "夫婦",
+                    "hiragana": "ふ",
+                    "point": 1
+                }
+            },
+            "富": {
+                "1": {
+                    "string": "豊富",
+                    "hiragana": "ふ",
+                    "point": 1
+                }
+            },
+            "武": {
+                "1": {
+                    "string": "武器",
+                    "hiragana": "ぶ",
+                    "point": 0
+                }
+            },
+            "復": {
+                "1": {
+                    "string": "往復",
+                    "hiragana": "ふく",
+                    "point": 1
+                }
+            },
+            "複": {
+                "1": {
+                    "string": "複雑",
+                    "hiragana": "ふく",
+                    "point": 0
+                }
+            },
+            "仏": {
+                "1": {
+                    "string": "仏教",
+                    "hiragana": "ぶっ",
+                    "point": 0
+                }
+            },
+            "編": {
+                "1": {
+                    "string": "編集",
+                    "hiragana": "へん",
+                    "point": 0
+                }
+            },
+            "弁": {
+                "1": {
+                    "string": "弁当",
+                    "hiragana": "べん",
+                    "point": 0
+                }
+            },
+            "保": {
+                "1": {
+                    "string": "保存",
+                    "hiragana": "ほ",
+                    "point": 0
+                }
+            },
+            "墓": {
+                "1": {
+                    "string": "お墓",
+                    "hiragana": "はか",
+                    "point": 1
+                }
+            },
+            "報": {
+                "1": {
+                    "string": "報告",
+                    "hiragana": "ほう",
+                    "point": 0
+                }
+            },
+            "豊": {
+                "1": {
+                    "string": "豊富",
+                    "hiragana": "ほう",
+                    "point": 0
+                }
+            },
+            "防": {
+                "1": {
+                    "string": "予防",
+                    "hiragana": "ぼう",
+                    "point": 1
+                }
+            },
+            "貿": {
+                "1": {
+                    "string": "貿易",
+                    "hiragana": "ぼう",
+                    "point": 0
+                }
+            },
+            "暴": {
+                "1": {
+                    "string": "暴力",
+                    "hiragana": "ぼう",
+                    "point": 0
+                }
+            },
+            "務": {
+                "1": {
+                    "string": "義務",
+                    "hiragana": "む",
+                    "point": 1
+                }
+            },
+            "夢": {
+                "1": {
+                    "string": "夢を見る",
+                    "hiragana": "ゆめ",
+                    "point": 0
+                }
+            },
+            "迷": {
+                "1": {
+                    "string": "迷う",
+                    "hiragana": "まよ",
+                    "point": 0
+                }
+            },
+            "綿": {
+                "1": {
+                    "string": "木綿",
+                    "hiragana": "めん",
+                    "point": 1
+                }
+            },
+            "輸": {
+                "1": {
+                    "string": "輸入",
+                    "hiragana": "ゆ",
+                    "point": 0
+                }
+            },
+            "余": {
+                "1": {
+                    "string": "余る",
+                    "hiragana": "あま",
+                    "point": 0
+                }
+            },
+            "預": {
+                "1": {
+                    "string": "預金",
+                    "hiragana": "よ",
+                    "point": 0
+                }
+            },
+            "容": {
+                "1": {
+                    "string": "内容",
+                    "hiragana": "よう",
+                    "point": 1
+                }
+            },
+            "略": {
+                "1": {
+                    "string": "省略",
+                    "hiragana": "りゃく",
+                    "point": 1
+                }
+            },
+            "留": {
+                "1": {
+                    "string": "留守",
+                    "hiragana": "る",
+                    "point": 0
+                }
+            },
+            "領": {
+                "1": {
+                    "string": "領収書",
+                    "hiragana": "りょう",
+                    "point": 0
+                }
+            }
+        },
+        "six": {
+            "異": {
+                "1": {
+                    "string": "異なる",
+                    "hiragana": "こと",
+                    "point": 0
+                }
+            },
+            "遺": {
+                "1": {
+                    "string": "遺産",
+                    "hiragana": "い",
+                    "point": 0
+                }
+            },
+            "域": {
+                "1": {
+                    "string": "地域",
+                    "hiragana": "いき",
+                    "point": 1
+                }
+            },
+            "宇": {
+                "1": {
+                    "string": "宇宙",
+                    "hiragana": "う",
+                    "point": 0
+                }
+            },
+            "映": {
+                "1": {
+                    "string": "映画",
+                    "hiragana": "えい",
+                    "point": 0
+                }
+            },
+            "延": {
+                "1": {
+                    "string": "延長",
+                    "hiragana": "えん",
+                    "point": 0
+                }
+            },
+            "沿": {
+                "1": {
+                    "string": "沿岸",
+                    "hiragana": "えん",
+                    "point": 0
+                }
+            },
+            "我": {
+                "1": {
+                    "string": "我が国",
+                    "hiragana": "わ",
+                    "point": 0
+                }
+            },
+            "灰": {
+                "1": {
+                    "string": "灰色",
+                    "hiragana": "はい",
+                    "point": 0
+                }
+            },
+            "拡": {
+                "1": {
+                    "string": "拡大",
+                    "hiragana": "かく",
+                    "point": 0
+                }
+            },
+            "革": {
+                "1": {
+                    "string": "革命",
+                    "hiragana": "かく",
+                    "point": 0
+                }
+            },
+            "閣": {
+                "1": {
+                    "string": "内閣",
+                    "hiragana": "かく",
+                    "point": 1
+                }
+            },
+            "割": {
+                "1": {
+                    "string": "割合",
+                    "hiragana": "わり",
+                    "point": 0
+                }
+            },
+            "株": {
+                "1": {
+                    "string": "株式会社",
+                    "hiragana": "かぶ",
+                    "point": 0
+                }
+            },
+            "干": {
+                "1": {
+                    "string": "干す",
+                    "hiragana": "ほ",
+                    "point": 0
+                }
+            },
+            "巻": {
+                "1": {
+                    "string": "竜巻",
+                    "hiragana": "まき",
+                    "point": 1
+                }
+            },
+            "看": {
+                "1": {
+                    "string": "看板",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "簡": {
+                "1": {
+                    "string": "簡単",
+                    "hiragana": "かん",
+                    "point": 0
+                }
+            },
+            "危": {
+                "1": {
+                    "string": "危険",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "机": {
+                "1": {
+                    "string": "机の上",
+                    "hiragana": "つくえ",
+                    "point": 0
+                }
+            },
+            "揮": {
+                "1": {
+                    "string": "指揮",
+                    "hiragana": "き",
+                    "point": 1
+                }
+            },
+            "貴": {
+                "1": {
+                    "string": "貴重",
+                    "hiragana": "き",
+                    "point": 0
+                }
+            },
+            "疑": {
+                "1": {
+                    "string": "疑問",
+                    "hiragana": "ぎ",
+                    "point": 0
+                }
+            },
+            "吸": {
+                "1": {
+                    "string": "吸う",
+                    "hiragana": "す",
+                    "point": 0
+                }
+            },
+            "供": {
+                "1": {
+                    "string": "提供",
+                    "hiragana": "きょう",
+                    "point": 1
+                }
+            },
+            "胸": {
+                "1": {
+                    "string": "胸が痛い",
+                    "hiragana": "むね",
+                    "point": 0
+                }
+            },
+            "郷": {
+                "1": {
+                    "string": "故郷",
+                    "hiragana": "きょう",
+                    "point": 1
+                }
+            },
+            "勤": {
+                "1": {
+                    "string": "勤務",
+                    "hiragana": "きん",
+                    "point": 0
+                }
+            },
+            "筋": {
+                "1": {
+                    "string": "筋肉",
+                    "hiragana": "きん",
+                    "point": 0
+                }
+            },
+            "系": {
+                "1": {
+                    "string": "体系",
+                    "hiragana": "けい",
+                    "point": 1
+                }
+            },
+            "敬": {
+                "1": {
+                    "string": "尊敬",
+                    "hiragana": "けい",
+                    "point": 1
+                }
+            },
+            "警": {
+                "1": {
+                    "string": "警察",
+                    "hiragana": "けい",
+                    "point": 0
+                }
+            },
+            "劇": {
+                "1": {
+                    "string": "演劇",
+                    "hiragana": "げき",
+                    "point": 1
+                }
+            },
+            "激": {
+                "1": {
+                    "string": "激しい",
+                    "hiragana": "はげ",
+                    "point": 0
+                }
+            },
+            "穴": {
+                "1": {
+                    "string": "落とし穴",
+                    "hiragana": "あな",
+                    "point": 3
+                }
+            },
+            "絹": {
+                "1": {
+                    "string": "絹糸",
+                    "hiragana": "きぬ",
+                    "point": 0
+                }
+            },
+            "権": {
+                "1": {
+                    "string": "権利",
+                    "hiragana": "けん",
+                    "point": 0
+                }
+            },
+            "憲": {
+                "1": {
+                    "string": "憲法",
+                    "hiragana": "けん",
+                    "point": 0
+                }
+            },
+            "源": {
+                "1": {
+                    "string": "資源",
+                    "hiragana": "げん",
+                    "point": 1
+                }
+            },
+            "厳": {
+                "1": {
+                    "string": "厳しい",
+                    "hiragana": "きび",
+                    "point": 0
+                }
+            },
+            "己": {
+                "1": {
+                    "string": "自己",
+                    "hiragana": "こ",
+                    "point": 1
+                }
+            },
+            "呼": {
+                "1": {
+                    "string": "呼ぶ",
+                    "hiragana": "よ",
+                    "point": 0
+                }
+            },
+            "誤": {
+                "1": {
+                    "string": "誤解",
+                    "hiragana": "ご",
+                    "point": 0
+                }
+            },
+            "后": {
+                "1": {
+                    "string": "皇后",
+                    "hiragana": "ごう",
+                    "point": 1
+                }
+            },
+            "孝": {
+                "1": {
+                    "string": "親孝行",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "皇": {
+                "1": {
+                    "string": "天皇",
+                    "hiragana": "のう",
+                    "point": 1
+                }
+            },
+            "紅": {
+                "1": {
+                    "string": "紅白",
+                    "hiragana": "こう",
+                    "point": 0
+                }
+            },
+            "降": {
+                "1": {
+                    "string": "降りる",
+                    "hiragana": "お",
+                    "point": 0
+                }
+            },
+            "鋼": {
+                "1": {
+                    "string": "鉄鋼",
+                    "hiragana": "こう",
+                    "point": 1
+                }
+            },
+            "刻": {
+                "1": {
+                    "string": "遅刻",
+                    "hiragana": "こく",
+                    "point": 1
+                }
+            },
+            "穀": {
+                "1": {
+                    "string": "穀物",
+                    "hiragana": "こく",
+                    "point": 0
+                }
+            },
+            "骨": {
+                "1": {
+                    "string": "骨折",
+                    "hiragana": "こっ",
+                    "point": 0
+                }
+            },
+            "困": {
+                "1": {
+                    "string": "困る",
+                    "hiragana": "こま",
+                    "point": 0
+                }
+            },
+            "砂": {
+                "1": {
+                    "string": "砂浜",
+                    "hiragana": "すな",
+                    "point": 0
+                }
+            },
+            "座": {
+                "1": {
+                    "string": "座席",
+                    "hiragana": "ざ",
+                    "point": 0
+                }
+            },
+            "済": {
+                "1": {
+                    "string": "経済",
+                    "hiragana": "ざい",
+                    "point": 1
+                }
+            },
+            "裁": {
+                "1": {
+                    "string": "裁判",
+                    "hiragana": "さい",
+                    "point": 0
+                }
+            },
+            "策": {
+                "1": {
+                    "string": "対策",
+                    "hiragana": "さく",
+                    "point": 1
+                }
+            },
+            "冊": {
+                "1": {
+                    "string": "冊子",
+                    "hiragana": "さっ",
+                    "point": 0
+                }
+            },
+            "蚕": {
+                "1": {
+                    "string": "養蚕",
+                    "hiragana": "さん",
+                    "point": 1
+                }
+            },
+            "至": {
+                "1": {
+                    "string": "夏至",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "私": {
+                "1": {
+                    "string": "私服",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "姿": {
+                "1": {
+                    "string": "姿を見る",
+                    "hiragana": "すがた",
+                    "point": 0
+                }
+            },
+            "視": {
+                "1": {
+                    "string": "視力",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "詞": {
+                "1": {
+                    "string": "動詞",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "誌": {
+                "1": {
+                    "string": "雑誌",
+                    "hiragana": "し",
+                    "point": 1
+                }
+            },
+            "磁": {
+                "1": {
+                    "string": "磁石",
+                    "hiragana": "じ",
+                    "point": 0
+                }
+            },
+            "射": {
+                "1": {
+                    "string": "注射",
+                    "hiragana": "しゃ",
+                    "point": 1
+                }
+            },
+            "捨": {
+                "1": {
+                    "string": "捨てる",
+                    "hiragana": "す",
+                    "point": 0
+                }
+            },
+            "尺": {
+                "1": {
+                    "string": "縮尺",
+                    "hiragana": "しゃく",
+                    "point": 1
+                }
+            },
+            "若": {
+                "1": {
+                    "string": "若い",
+                    "hiragana": "わか",
+                    "point": 0
+                }
+            },
+            "樹": {
+                "1": {
+                    "string": "樹木",
+                    "hiragana": "じゅ",
+                    "point": 0
+                }
+            },
+            "収": {
+                "1": {
+                    "string": "収入",
+                    "hiragana": "しゅう",
+                    "point": 0
+                }
+            },
+            "宗": {
+                "1": {
+                    "string": "宗教",
+                    "hiragana": "しゅう",
+                    "point": 0
+                }
+            },
+            "就": {
+                "1": {
+                    "string": "就職",
+                    "hiragana": "しゅう",
+                    "point": 0
+                }
+            },
+            "衆": {
+                "1": {
+                    "string": "群衆",
+                    "hiragana": "しゅう",
+                    "point": 1
+                }
+            },
+            "従": {
+                "1": {
+                    "string": "従う",
+                    "hiragana": "したが",
+                    "point": 0
+                }
+            },
+            "縦": {
+                "1": {
+                    "string": "縦書き",
+                    "hiragana": "たて",
+                    "point": 0
+                }
+            },
+            "縮": {
+                "1": {
+                    "string": "縮小",
+                    "hiragana": "しゅく",
+                    "point": 0
+                }
+            },
+            "熟": {
+                "1": {
+                    "string": "未熟",
+                    "hiragana": "じゅく",
+                    "point": 1
+                }
+            },
+            "純": {
+                "1": {
+                    "string": "純粋",
+                    "hiragana": "じゅん",
+                    "point": 0
+                }
+            },
+            "処": {
+                "1": {
+                    "string": "処理",
+                    "hiragana": "しょ",
+                    "point": 0
+                }
+            },
+            "署": {
+                "1": {
+                    "string": "警察署",
+                    "hiragana": "しょ",
+                    "point": 2
+                }
+            },
+            "諸": {
+                "1": {
+                    "string": "諸国",
+                    "hiragana": "しょ",
+                    "point": 0
+                }
+            },
+            "除": {
+                "1": {
+                    "string": "掃除",
+                    "hiragana": "じ",
+                    "point": 1
+                }
+            },
+            "将": {
+                "1": {
+                    "string": "将来",
+                    "hiragana": "しょう",
+                    "point": 0
+                }
+            },
+            "傷": {
+                "1": {
+                    "string": "傷口",
+                    "hiragana": "きず",
+                    "point": 0
+                }
+            },
+            "障": {
+                "1": {
+                    "string": "故障",
+                    "hiragana": "しょう",
+                    "point": 1
+                }
+            },
+            "城": {
+                "1": {
+                    "string": "お城",
+                    "hiragana": "しろ",
+                    "point": 1
+                }
+            },
+            "蒸": {
+                "1": {
+                    "string": "水蒸気",
+                    "hiragana": "じょう",
+                    "point": 1
+                }
+            },
+            "針": {
+                "1": {
+                    "string": "方針",
+                    "hiragana": "しん",
+                    "point": 1
+                }
+            },
+            "仁": {
+                "1": {
+                    "string": "仁愛",
+                    "hiragana": "じん",
+                    "point": 0
+                }
+            },
+            "垂": {
+                "1": {
+                    "string": "垂直",
+                    "hiragana": "すい",
+                    "point": 0
+                }
+            },
+            "推": {
+                "1": {
+                    "string": "推進",
+                    "hiragana": "すい",
+                    "point": 0
+                }
+            },
+            "寸": {
+                "1": {
+                    "string": "寸法",
+                    "hiragana": "すん",
+                    "point": 0
+                }
+            },
+            "盛": {
+                "1": {
+                    "string": "盛ん",
+                    "hiragana": "さか",
+                    "point": 0
+                }
+            },
+            "聖": {
+                "1": {
+                    "string": "神聖",
+                    "hiragana": "せい",
+                    "point": 1
+                }
+            },
+            "誠": {
+                "1": {
+                    "string": "誠実",
+                    "hiragana": "せい",
+                    "point": 0
+                }
+            },
+            "宣": {
+                "1": {
+                    "string": "宣言",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "専": {
+                "1": {
+                    "string": "専門",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "泉": {
+                "1": {
+                    "string": "温泉",
+                    "hiragana": "せん",
+                    "point": 1
+                }
+            },
+            "洗": {
+                "1": {
+                    "string": "洗濯",
+                    "hiragana": "せん",
+                    "point": 0
+                }
+            },
+            "染": {
+                "1": {
+                    "string": "感染",
+                    "hiragana": "せん",
+                    "point": 1
+                }
+            },
+            "善": {
+                "1": {
+                    "string": "親善",
+                    "hiragana": "ぜん",
+                    "point": 1
+                }
+            },
+            "奏": {
+                "1": {
+                    "string": "演奏",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "窓": {
+                "1": {
+                    "string": "窓ガラス",
+                    "hiragana": "まど",
+                    "point": 0
+                }
+            },
+            "創": {
+                "1": {
+                    "string": "創造",
+                    "hiragana": "そう",
+                    "point": 0
+                }
+            },
+            "装": {
+                "1": {
+                    "string": "服装",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "層": {
+                "1": {
+                    "string": "地層",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "操": {
+                "1": {
+                    "string": "体操",
+                    "hiragana": "そう",
+                    "point": 1
+                }
+            },
+            "蔵": {
+                "1": {
+                    "string": "冷蔵庫",
+                    "hiragana": "ぞう",
+                    "point": 1
+                }
+            },
+            "臓": {
+                "1": {
+                    "string": "心臓",
+                    "hiragana": "ぞう",
+                    "point": 1
+                }
+            },
+            "存": {
+                "1": {
+                    "string": "存在",
+                    "hiragana": "そん",
+                    "point": 0
+                }
+            },
+            "尊": {
+                "1": {
+                    "string": "尊重",
+                    "hiragana": "そん",
+                    "point": 0
+                }
+            },
+            "宅": {
+                "1": {
+                    "string": "住宅",
+                    "hiragana": "たく",
+                    "point": 1
+                }
+            },
+            "担": {
+                "1": {
+                    "string": "担当",
+                    "hiragana": "たん",
+                    "point": 0
+                }
+            },
+            "探": {
+                "1": {
+                    "string": "探す",
+                    "hiragana": "さが",
+                    "point": 0
+                }
+            },
+            "誕": {
+                "1": {
+                    "string": "誕生",
+                    "hiragana": "たん",
+                    "point": 0
+                }
+            },
+            "段": {
+                "1": {
+                    "string": "階段",
+                    "hiragana": "だん",
+                    "point": 1
+                }
+            },
+            "暖": {
+                "1": {
+                    "string": "暖かい",
+                    "hiragana": "あたた",
+                    "point": 0
+                }
+            },
+            "値": {
+                "1": {
+                    "string": "値段",
+                    "hiragana": "ね",
+                    "point": 0
+                }
+            },
+            "宙": {
+                "1": {
+                    "string": "宇宙",
+                    "hiragana": "ちゅう",
+                    "point": 1
+                }
+            },
+            "忠": {
+                "1": {
+                    "string": "忠実",
+                    "hiragana": "ちゅう",
+                    "point": 0
+                }
+            },
+            "著": {
+                "1": {
+                    "string": "著名",
+                    "hiragana": "ちょ",
+                    "point": 0
+                }
+            },
+            "庁": {
+                "1": {
+                    "string": "県庁",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "頂": {
+                "1": {
+                    "string": "頂上",
+                    "hiragana": "ちょう",
+                    "point": 0
+                }
+            },
+            "潮": {
+                "1": {
+                    "string": "満潮",
+                    "hiragana": "ちょう",
+                    "point": 1
+                }
+            },
+            "賃": {
+                "1": {
+                    "string": "家賃",
+                    "hiragana": "ちん",
+                    "point": 1
+                }
+            },
+            "痛": {
+                "1": {
+                    "string": "痛い",
+                    "hiragana": "いた",
+                    "point": 0
+                }
+            },
+            "展": {
+                "1": {
+                    "string": "展示",
+                    "hiragana": "てん",
+                    "point": 0
+                }
+            },
+            "討": {
+                "1": {
+                    "string": "討論",
+                    "hiragana": "とう",
+                    "point": 0
+                }
+            },
+            "党": {
+                "1": {
+                    "string": "政党",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "糖": {
+                "1": {
+                    "string": "砂糖",
+                    "hiragana": "とう",
+                    "point": 1
+                }
+            },
+            "届": {
+                "1": {
+                    "string": "届く",
+                    "hiragana": "とど",
+                    "point": 0
+                }
+            },
+            "難": {
+                "1": {
+                    "string": "難しい",
+                    "hiragana": "むずか",
+                    "point": 0
+                }
+            },
+            "乳": {
+                "1": {
+                    "string": "牛乳",
+                    "hiragana": "にゅう",
+                    "point": 1
+                }
+            },
+            "認": {
+                "1": {
+                    "string": "確認",
+                    "hiragana": "にん",
+                    "point": 1
+                }
+            },
+            "納": {
+                "1": {
+                    "string": "納豆",
+                    "hiragana": "なっ",
+                    "point": 0
+                }
+            },
+            "脳": {
+                "1": {
+                    "string": "頭脳",
+                    "hiragana": "のう",
+                    "point": 1
+                }
+            },
+            "派": {
+                "1": {
+                    "string": "立派",
+                    "hiragana": "ぱ",
+                    "point": 1
+                }
+            },
+            "拝": {
+                "1": {
+                    "string": "参拝",
+                    "hiragana": "ぱい",
+                    "point": 1
+                }
+            },
+            "背": {
+                "1": {
+                    "string": "背中",
+                    "hiragana": "せ",
+                    "point": 0
+                }
+            },
+            "肺": {
+                "1": {
+                    "string": "肺活量",
+                    "hiragana": "はい",
+                    "point": 0
+                }
+            },
+            "俳": {
+                "1": {
+                    "string": "俳優",
+                    "hiragana": "はい",
+                    "point": 0
+                }
+            },
+            "班": {
+                "1": {
+                    "string": "班長",
+                    "hiragana": "はん",
+                    "point": 0
+                }
+            },
+            "晩": {
+                "1": {
+                    "string": "今晩",
+                    "hiragana": "ばん",
+                    "point": 1
+                }
+            },
+            "否": {
+                "1": {
+                    "string": "否定",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "批": {
+                "1": {
+                    "string": "批判",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "秘": {
+                "1": {
+                    "string": "秘密",
+                    "hiragana": "ひ",
+                    "point": 0
+                }
+            },
+            "腹": {
+                "1": {
+                    "string": "お腹",
+                    "hiragana": "なか",
+                    "point": 1
+                }
+            },
+            "奮": {
+                "1": {
+                    "string": "興奮",
+                    "hiragana": "ふん",
+                    "point": 1
+                }
+            },
+            "並": {
+                "1": {
+                    "string": "並ぶ",
+                    "hiragana": "なら",
+                    "point": 0
+                }
+            },
+            "陛": {
+                "1": {
+                    "string": "天皇陛下",
+                    "hiragana": "へい",
+                    "point": 2
+                }
+            },
+            "閉": {
+                "1": {
+                    "string": "閉める",
+                    "hiragana": "し",
+                    "point": 0
+                }
+            },
+            "片": {
+                "1": {
+                    "string": "片道",
+                    "hiragana": "かた",
+                    "point": 0
+                }
+            },
+            "補": {
+                "1": {
+                    "string": "補助",
+                    "hiragana": "ほ",
+                    "point": 0
+                }
+            },
+            "暮": {
+                "1": {
+                    "string": "夕暮れ",
+                    "hiragana": "ぐ",
+                    "point": 1
+                }
+            },
+            "宝": {
+                "1": {
+                    "string": "宝物",
+                    "hiragana": "たから",
+                    "point": 0
+                }
+            },
+            "訪": {
+                "1": {
+                    "string": "訪問",
+                    "hiragana": "ほう",
+                    "point": 0
+                }
+            },
+            "亡": {
+                "1": {
+                    "string": "死亡",
+                    "hiragana": "ぼう",
+                    "point": 1
+                }
+            },
+            "忘": {
+                "1": {
+                    "string": "忘れる",
+                    "hiragana": "わす",
+                    "point": 0
+                }
+            },
+            "棒": {
+                "1": {
+                    "string": "鉄棒",
+                    "hiragana": "ぼう",
+                    "point": 1
+                }
+            },
+            "枚": {
+                "1": {
+                    "string": "一枚",
+                    "hiragana": "まい",
+                    "point": 1
+                }
+            },
+            "幕": {
+                "1": {
+                    "string": "字幕",
+                    "hiragana": "まく",
+                    "point": 1
+                }
+            },
+            "密": {
+                "1": {
+                    "string": "秘密",
+                    "hiragana": "みつ",
+                    "point": 1
+                }
+            },
+            "盟": {
+                "1": {
+                    "string": "同盟",
+                    "hiragana": "めい",
+                    "point": 1
+                }
+            },
+            "模": {
+                "1": {
+                    "string": "模様",
+                    "hiragana": "も",
+                    "point": 0
+                }
+            },
+            "訳": {
+                "1": {
+                    "string": "翻訳",
+                    "hiragana": "やく",
+                    "point": 1
+                }
+            },
+            "郵": {
+                "1": {
+                    "string": "郵便局",
+                    "hiragana": "ゆう",
+                    "point": 0
+                }
+            },
+            "優": {
+                "1": {
+                    "string": "優しい",
+                    "hiragana": "やさ",
+                    "point": 0
+                }
+            },
+            "幼": {
+                "1": {
+                    "string": "幼稚園",
+                    "hiragana": "よう",
+                    "point": 0
+                }
+            },
+            "欲": {
+                "1": {
+                    "string": "食欲",
+                    "hiragana": "よく",
+                    "point": 1
+                }
+            },
+            "翌": {
+                "1": {
+                    "string": "翌日",
+                    "hiragana": "よく",
+                    "point": 0
+                }
+            },
+            "乱": {
+                "1": {
+                    "string": "混乱",
+                    "hiragana": "らん",
+                    "point": 1
+                }
+            },
+            "卵": {
+                "1": {
+                    "string": "卵焼き",
+                    "hiragana": "たまご",
+                    "point": 0
+                }
+            },
+            "覧": {
+                "1": {
+                    "string": "展覧会",
+                    "hiragana": "らん",
+                    "point": 1
+                }
+            },
+            "裏": {
+                "1": {
+                    "string": "裏側",
+                    "hiragana": "うら",
+                    "point": 0
+                }
+            },
+            "律": {
+                "1": {
+                    "string": "法律",
+                    "hiragana": "りつ",
+                    "point": 1
+                }
+            },
+            "臨": {
+                "1": {
+                    "string": "臨時",
+                    "hiragana": "りん",
+                    "point": 0
+                }
+            },
+            "朗": {
+                "1": {
+                    "string": "朗読",
+                    "hiragana": "ろう",
+                    "point": 0
+                }
+            },
+            "論": {
+                "1": {
+                    "string": "議論",
+                    "hiragana": "ろん",
+                    "point": 1
+                }
+            }
+        }
+    },
+    "middle": {
+        "one": {},
+        "two": {},
+        "three": {}
+    },
+    "high": {
+        "one": {},
+        "two": {},
+        "three": {}
+    }
+}
