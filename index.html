@@ -4,69 +4,105 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>漢字練習</title>
-    <meta name="description" content="漢字の書き取り練習アプリ - 小学1年から6年までの漢字を練習できます">
-    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="常用漢字2136字の練習用ウェブアプリ - 学年別に漢字の書き取り練習ができます">
+    <title>漢字練習 - 常用漢字2136</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700;900&display=swap"
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Zen+Maru+Gothic:wght@400;500;700&display=swap"
         rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <!-- 学年選択モーダル -->
-    <div id="grade-modal" class="modal hidden">
-        <div class="modal-content">
-            <h2>学年を選択</h2>
-            <div class="grade-grid">
-                <button class="grade-btn" data-category="low" data-grade="one">小学1年</button>
-                <button class="grade-btn" data-category="low" data-grade="two">小学2年</button>
-                <button class="grade-btn" data-category="low" data-grade="three">小学3年</button>
-                <button class="grade-btn" data-category="low" data-grade="four">小学4年</button>
-                <button class="grade-btn" data-category="low" data-grade="five">小学5年</button>
-                <button class="grade-btn" data-category="low" data-grade="six">小学6年</button>
-            </div>
-            <button id="modal-close" class="modal-close-btn">閉じる</button>
+    <!-- ===== 学年選択画面 ===== -->
+    <div id="grade-select-screen" class="screen">
+        <div class="screen-header">
+            <h1 id="app-title">漢字練習</h1>
+            <p class="subtitle">常用漢字 2136字</p>
+        </div>
+        <div id="grade-buttons" class="grade-grid"></div>
+        <div class="bottom-actions">
+            <button id="start-btn" class="primary-btn" disabled onclick="startPractice()">学年を選択してください</button>
+            <button id="stats-btn" class="secondary-btn" onclick="showStatsScreen()">📊 成績を見る</button>
         </div>
     </div>
 
-    <!-- メインコンテンツ -->
-    <div class="app-wrapper">
-        <!-- ヘッダー -->
-        <header class="app-header">
-            <h1>漢字練習</h1>
-            <div class="stats-bar">
-                <span id="stats-correct" class="stat correct">⭕ <span id="correct-count">0</span></span>
-                <span id="stats-wrong" class="stat wrong">❌ <span id="wrong-count">0</span></span>
-                <span id="stats-total" class="stat total">📝 <span id="total-count">0</span></span>
-            </div>
-        </header>
+    <!-- ===== 練習画面 ===== -->
+    <div id="practice-screen" class="screen hidden">
+        <!-- トップバー -->
+        <div id="top-bar">
+            <button id="back-btn" onclick="event.stopPropagation(); goBack()">← 戻る</button>
+            <div id="kanji-info"></div>
+        </div>
 
-        <!-- 漢字表示エリア -->
-        <main class="kanji-area">
-            <div id="grade-label" class="grade-label">小学1年</div>
-            <div id="kanji-display" class="kanji-display">
-                <span id="kanji-text">始めましょう</span>
-            </div>
-            <div id="answer-reveal" class="answer-reveal hidden">
-                <span class="answer-label">答え:</span>
-                <span id="answer-kanji" class="answer-kanji"></span>
-            </div>
-        </main>
+        <!-- 進捗バー -->
+        <div id="progress-bar-container">
+            <div id="progress-bar"></div>
+            <span id="progress-text">0 / 0</span>
+        </div>
+
+        <!-- メイン表示エリア -->
+        <div id="sentence-area">
+            <div id="sentence-display"></div>
+            <div id="hint-text">タップで漢字を表示・非表示</div>
+        </div>
 
         <!-- ボタンエリア -->
-        <div class="button-area">
-            <button id="fail" class="action-btn fail-btn">✗ 失敗</button>
-            <button id="select" class="action-btn select-btn">📚 学年選択</button>
-            <button id="success" class="action-btn success-btn">○ 成功</button>
-        </div>
-
-        <div class="sub-buttons">
-            <button id="show-answer" class="action-btn answer-btn">💡 答えを見る</button>
-            <button id="next" class="action-btn next-btn">次の漢字 →</button>
+        <div id="button-area">
+            <button id="btn-fail" class="action-btn fail" onclick="event.stopPropagation(); handleResult('fail')">
+                <span class="btn-icon">✕</span>
+                <span class="btn-label">失敗</span>
+            </button>
+            <button id="btn-select" class="action-btn select" onclick="event.stopPropagation(); openSelector()">
+                <span class="btn-icon">◎</span>
+                <span class="btn-label">漢字の位置の選択</span>
+            </button>
+            <button id="btn-success" class="action-btn success"
+                onclick="event.stopPropagation(); handleResult('success')">
+                <span class="btn-icon">○</span>
+                <span class="btn-label">成功</span>
+            </button>
         </div>
     </div>
 
+    <!-- ===== 統計画面 ===== -->
+    <div id="stats-screen" class="screen hidden">
+        <div id="stats-top-bar">
+            <button onclick="event.stopPropagation(); backToGradeSelectFromStats()">← 戻る</button>
+            <h2>学習統計</h2>
+        </div>
+        <div id="stats-content"></div>
+    </div>
+
+    <!-- 漢字選択モーダル -->
+    <div id="selector-modal" class="modal hidden">
+        <div class="modal-backdrop" onclick="closeSelector()"></div>
+        <div class="modal-content">
+            <h2>書きたい漢字を選んでください</h2>
+            <div id="kanji-options"></div>
+            <button class="modal-close" onclick="closeSelector()">閉じる</button>
+        </div>
+    </div>
+
+    <!-- 完了画面 -->
+    <div id="complete-screen" class="modal hidden">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content complete-content">
+            <div class="complete-icon">🎉</div>
+            <h2>練習完了！</h2>
+            <div id="result-summary"></div>
+            <div class="complete-actions">
+                <button class="modal-close restart-btn"
+                    onclick="event.stopPropagation(); restartPractice()">もう一度</button>
+                <button class="modal-close back-btn"
+                    onclick="event.stopPropagation(); backToGradeSelect()">学年選択に戻る</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="kanji_database.js"></script>
+    <script src="sentence_pool.js"></script>
     <script src="script.js"></script>
 </body>
 
