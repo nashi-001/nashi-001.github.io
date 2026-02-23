@@ -45,6 +45,11 @@
         <!-- メイン表示エリア -->
         <div id="sentence-area">
             <div id="sentence-display"></div>
+            <div id="canvas-container">
+                <canvas id="practice-canvas"></canvas>
+                <div id="canvas-hint">ここに漢字を書いてください</div>
+                <button id="canvas-clear-btn" onclick="event.stopPropagation(); clearCanvas()">消去</button>
+            </div>
             <div id="hint-text">タップで漢字を表示・非表示</div>
         </div>
 

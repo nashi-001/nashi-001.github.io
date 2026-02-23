@@ -18,7 +18,11 @@ let state = {
     selectedWordKey: null,
     isRevealed: false,
     sessionResults: [],
-    isAnimating: false
+    isAnimating: false,
+    // キャンバス状態
+    isDrawing: false,
+    lastPos: { x: 0, y: 0 },
+    canvasDirty: false
 };
 
 // ===== 成績データ管理 =====
@@ -250,6 +254,7 @@ function startPractice() {
 
     showScreen('practice');
     loadCurrentQuestion();
+    initCanvas();
 }
 
 // ===== 練習画面 =====
@@ -274,6 +279,7 @@ function loadCurrentQuestion() {
     updateProgressBar();
     renderSentence();
     renderKanjiInfo();
+    clearCanvas();
 }
 
 function renderSentence() {
@@ -340,6 +346,115 @@ function handleToggle(e) {
     }
 }
 
+// ===== キャンバス（手書き）ロジック =====
+function initCanvas() {
+    const canvas = document.getElementById('practice-canvas');
+    const container = document.getElementById('canvas-container');
+    if (!canvas) return;
+
+    // 高解像度対応
+    const dpr = window.devicePixelRatio || 1;
+    const rect = container.getBoundingClientRect();
+
+    // サイズが変わった場合のみ再設定
+    if (canvas.width !== rect.width * dpr || canvas.height !== rect.height * dpr) {
+        canvas.width = rect.width * dpr;
+        canvas.height = rect.height * dpr;
+        const ctx = canvas.getContext('2d');
+        ctx.scale(dpr, dpr);
+    }
+
+    const ctx = canvas.getContext('2d');
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.lineWidth = 14; // 少し太くする
+    ctx.strokeStyle = '#d4a959'; // var(--accent-gold)
+
+    // イベント登録（重複登録防止のため、一旦削除するか確認）
+    canvas.removeEventListener('mousedown', startDrawing);
+    canvas.addEventListener('mousedown', startDrawing);
+    canvas.removeEventListener('mousemove', draw);
+    canvas.addEventListener('mousemove', draw);
+    canvas.removeEventListener('mouseup', stopDrawing);
+    canvas.addEventListener('mouseup', stopDrawing);
+    canvas.removeEventListener('mouseleave', stopDrawing);
+    canvas.addEventListener('mouseleave', stopDrawing);
+
+    canvas.addEventListener('touchstart', (e) => {
+        e.preventDefault();
+        const touch = e.touches[0];
+        const mouseEvent = new MouseEvent('mousedown', {
+            clientX: touch.clientX,
+            clientY: touch.clientY
+        });
+        canvas.dispatchEvent(mouseEvent);
+    }, { passive: false });
+
+    canvas.addEventListener('touchmove', (e) => {
+        e.preventDefault();
+        const touch = e.touches[0];
+        const mouseEvent = new MouseEvent('mousemove', {
+            clientX: touch.clientX,
+            clientY: touch.clientY
+        });
+        canvas.dispatchEvent(mouseEvent);
+    }, { passive: false });
+
+    canvas.addEventListener('touchend', (e) => {
+        const mouseEvent = new MouseEvent('mouseup', {});
+        canvas.dispatchEvent(mouseEvent);
+    }, { passive: false });
+}
+
+function getMousePos(canvas, e) {
+    const rect = canvas.getBoundingClientRect();
+    return {
+        x: e.clientX - rect.left,
+        y: e.clientY - rect.top
+    };
+}
+
+function startDrawing(e) {
+    state.isDrawing = true;
+    state.lastPos = getMousePos(e.target, e);
+    state.canvasDirty = true;
+    document.getElementById('canvas-container').classList.add('drawing');
+}
+
+function draw(e) {
+    if (!state.isDrawing) return;
+    const canvas = e.target;
+    const ctx = canvas.getContext('2d');
+    const pos = getMousePos(canvas, e);
+
+    ctx.beginPath();
+    ctx.moveTo(state.lastPos.x, state.lastPos.y);
+    ctx.lineTo(pos.x, pos.y);
+    ctx.stroke();
+
+    state.lastPos = pos;
+}
+
+function stopDrawing() {
+    state.isDrawing = false;
+}
+
+function clearCanvas() {
+    const canvas = document.getElementById('practice-canvas');
+    const container = document.getElementById('canvas-container');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    // transformをリセットしてからクリア
+    ctx.save();
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.restore();
+
+    state.canvasDirty = false;
+    container.classList.remove('drawing');
+}
+
 // ===== 結果処理 =====
 function handleResult(type) {
     if (state.isAnimating) return;
@@ -353,19 +468,28 @@ function handleResult(type) {
 
     setTimeout(() => {
         const display = document.getElementById('sentence-display');
+        const canvasContainer = document.getElementById('canvas-container');
+
         display.classList.add('slide-out-left');
+        canvasContainer.classList.add('slide-out-left');
 
         setTimeout(() => {
             state.currentIndex++;
             display.classList.remove('slide-out-left');
+            canvasContainer.classList.remove('slide-out-left');
+
             display.classList.add('slide-in-right');
+            canvasContainer.classList.add('slide-in-right');
+
             loadCurrentQuestion();
+
             setTimeout(() => {
                 display.classList.remove('slide-in-right');
+                canvasContainer.classList.remove('slide-in-right');
                 state.isAnimating = false;
-            }, 350);
-        }, 350);
-    }, 500);
+            }, 250); // 350 -> 250
+        }, 250); // 350 -> 250
+    }, 400); // 500 -> 400
 }
 
 function showFeedback(type) {

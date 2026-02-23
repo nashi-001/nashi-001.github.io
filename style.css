@@ -343,6 +343,65 @@ body {
     }
 }
 
+#canvas-container {
+    position: relative;
+    width: 320px;
+    height: 320px;
+    margin: 20px auto;
+    background: rgba(255, 255, 255, 0.03);
+    border: 2px solid var(--border-subtle);
+    border-radius: var(--radius-lg);
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+#practice-canvas {
+    width: 100%;
+    height: 100%;
+    cursor: crosshair;
+    touch-action: none;
+}
+
+#canvas-hint {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--text-hint);
+    font-size: 0.9rem;
+    pointer-events: none;
+    opacity: 0.5;
+    transition: var(--transition-smooth);
+}
+
+#canvas-container.drawing #canvas-hint {
+    opacity: 0;
+}
+
+#canvas-clear-btn {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    padding: 6px 16px;
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    background: rgba(15, 15, 20, 0.6);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-family: var(--font-main);
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    z-index: 5;
+}
+
+#canvas-clear-btn:hover {
+    background: var(--bg-card-hover);
+    color: var(--text-primary);
+    border-color: var(--accent-red);
+}
+
 #hint-text {
     margin-top: 20px;
     font-size: 0.75rem;
