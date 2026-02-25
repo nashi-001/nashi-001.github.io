@@ -26,19 +26,28 @@ let state = {
 };
 
 // ===== 成績データ管理 =====
-function loadPracticeData() {
+// キャッシュ変数
+let practiceDataCache = null;
+
+function loadPracticeData(forceReload = false) {
+    if (practiceDataCache && !forceReload) return practiceDataCache;
     try {
         const data = localStorage.getItem(STORAGE_KEY);
-        if (data) return JSON.parse(data);
+        if (data) {
+            practiceDataCache = JSON.parse(data);
+            return practiceDataCache;
+        }
     } catch (e) {
         console.error('データ読み込みエラー:', e);
     }
-    return {};
+    practiceDataCache = {};
+    return practiceDataCache;
 }
 
 function savePracticeData(data) {
     try {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+        practiceDataCache = data;
     } catch (e) {
         console.error('データ保存エラー:', e);
     }
@@ -90,12 +99,27 @@ function calculateStats(kanji) {
     const allTotal = history.length;
     const allRate = allTotal > 0 ? Math.round((allSuccess / allTotal) * 100) : -1;
 
+    // 最後の結果
+    const lastResult = history.length > 0 ? history[history.length - 1].result : null;
+
+    // 連続正解数（最新から遡る）
+    let consecutiveSuccesses = 0;
+    for (let i = history.length - 1; i >= 0; i--) {
+        if (history[i].result === 'success') {
+            consecutiveSuccesses++;
+        } else {
+            break;
+        }
+    }
+
     return {
         threeDay: { success: threeDaySuccess, fail: threeDayFail, total: threeDayTotal, rate: threeDayRate },
         oneWeek: { success: oneWeekSuccess, fail: oneWeekFail, total: oneWeekTotal, rate: oneWeekRate },
         all: { success: allSuccess, fail: allFail, total: allTotal, rate: allRate },
-        // 1週間で誤答がないか
-        weeklyMastered: oneWeekTotal > 0 && oneWeekFail === 0
+        lastResult: lastResult,
+        consecutiveSuccesses: consecutiveSuccesses,
+        // 習得判定の厳格化: 週間に正答履歴があり、かつ直近2回以上連続正解しており、直近1週間に誤答がない
+        weeklyMastered: oneWeekTotal > 0 && consecutiveSuccesses >= 2 && oneWeekFail === 0
     };
 }
 
@@ -119,29 +143,28 @@ function selectPracticeKanji(grades, count) {
         const stats = calculateStats(kanji);
         let priority = 50; // ベース優先度
 
-        // 週間で誤答なし → 基本的に出題しない (低優先度)
-        if (stats.weeklyMastered) {
-            priority = 5;
-        }
+        // --- 優先度計算ルール ---
 
-        // 未学習 → 高優先度
-        if (stats.all.total === 0) {
-            priority = 80;
-        }
-
-        // 3日間の成績が悪い → 高優先度
-        if (stats.threeDay.rate >= 0 && stats.threeDay.rate < 70) {
+        // 1. 最近失敗した、または復習が必要 → 最高優先度 (90-95)
+        if (stats.lastResult === 'fail') {
+            priority = 95;
+        } else if (stats.threeDay.fail > 0 && stats.consecutiveSuccesses < 2) {
+            // 3日以内に失敗しており、その後の復習（連続正解）が2回未満
             priority = 90;
         }
-
-        // 1週間の成績が悪い → 中優先度
-        if (stats.oneWeek.rate >= 0 && stats.oneWeek.rate < 70) {
+        // 2. 未学習 → 高優先度 (80)
+        else if (stats.all.total === 0) {
+            priority = 80;
+        }
+        // 3. 成績が悪い (70未満) → 中〜高優先度 (70-85)
+        else if (stats.threeDay.rate >= 0 && stats.threeDay.rate < 70) {
+            priority = Math.max(priority, 85);
+        } else if (stats.oneWeek.rate >= 0 && stats.oneWeek.rate < 70) {
             priority = Math.max(priority, 70);
         }
-
-        // 最近失敗した → 高優先度
-        if (stats.threeDay.fail > 0) {
-            priority = 95;
+        // 4. 習得済み → 低優先度 (5)
+        else if (stats.weeklyMastered) {
+            priority = 5;
         }
 
         return { kanji, priority, stats };
